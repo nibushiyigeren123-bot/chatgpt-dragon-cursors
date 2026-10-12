@@ -1,0 +1,14 @@
+{
+  "character": "chatgpt-dragon",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-919c0af2-0ebe-4b06-85f0-1df6f7e7ddff.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\chatgpt-dragon\\poses-v1.png",
+  "sha256": "6663221b77ecc79d17fe3a18bb6a46d5c4a1e607768e7e092ff95abda46a0c12",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}
