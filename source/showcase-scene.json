@@ -1,0 +1,77 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 21,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "ChatGPT 龙娘 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "chatgpt-dragon",
+      "display": "ChatGPT 龙娘",
+      "seconds": 10,
+      "caption": "ChatGPT 龙娘 · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 13
+    },
+    {
+      "kind": "sizes",
+      "character": "chatgpt-dragon",
+      "display": "ChatGPT 龙娘",
+      "seconds": 5,
+      "caption": "ChatGPT 龙娘 · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 下载与素材来源见简介",
+      "start": 18,
+      "end": 21
+    }
+  ],
+  "profile": {
+    "repository": "chatgpt-dragon-cursors",
+    "title": "ChatGPT 龙娘",
+    "namespace": "ChatGPTDragonCursors",
+    "accent": "#9b88c8",
+    "version": "1.0.0",
+    "default_character": "chatgpt-dragon",
+    "characters": [
+      {
+        "id": "chatgpt-dragon",
+        "display": "ChatGPT Dragon",
+        "reference_page": null
+      }
+    ],
+    "installation_slot_version": "1.0.0"
+  },
+  "palette": {
+    "repository": "chatgpt-dragon-cursors",
+    "accent": "#8b79b6",
+    "ink": "#352b53",
+    "muted": "#746689",
+    "bg_start": "#FCFAFF",
+    "bg_end": "#EEE8F6",
+    "title": "ChatGPT 龙娘动态指针",
+    "subtitle": "白发双角 · 淡紫龙翼与龙尾 · 把龙娘带到鼠标旁边",
+    "quote": "白色裙摆轻轻一晃，今天也陪你点过每一个小窗口。",
+    "characters": [
+      {
+        "id": "chatgpt-dragon",
+        "label": "ChatGPT 龙娘",
+        "traits": "白发双角 · 紫翼龙尾"
+      }
+    ],
+    "designer": "Accepted DeepSeek template; Codex dragon palette and copy"
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
