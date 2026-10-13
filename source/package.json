@@ -3,7 +3,7 @@
   "title": "ChatGPT 龙娘",
   "namespace": "ChatGPTDragonCursors",
   "accent": "#9b88c8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "default_character": "chatgpt-dragon",
   "characters": [
     {

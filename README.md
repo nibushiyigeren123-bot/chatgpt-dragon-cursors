@@ -1,4 +1,7 @@
 # ChatGPT 龙娘动态鼠标指针
+
+> **v1.0.1 安装兼容修复**：[完整安装包](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.0.1/chatgpt-dragon-cursors-install-v1.0.1.zip) · [可编辑源码](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.0.1/chatgpt-dragon-cursors-source-v1.0.1.zip) · [PNG帧](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.0.1/chatgpt-dragon-cursors-png-frames-v1.0.1.zip)。升级步骤和旧系统说明见 [兼容修复说明](WIN10_COMPATIBILITY.md)。
+
 
 白发、双角、淡紫龙翼和龙尾的社区 Q 版龙娘，制作成 Windows 传统 ANI 动态指针。**17 种状态 × 32 / 48 / 64 / 128 / 256 px 五档尺寸**，默认安装不运行常驻后台。
 
@@ -8,7 +11,7 @@
 
 ## 下载和安装
 
-从 [Releases](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/latest) 下载 `chatgpt-dragon-cursors-install-v1.0.0.zip`，完整解压，双击 `应用_ChatGPT龙娘_64px.cmd`。需要其他尺寸时双击对应 CMD。
+从 [Releases](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/latest) 下载 `chatgpt-dragon-cursors-install-v1.0.1.zip`，完整解压，双击 `应用_ChatGPT龙娘_64px.cmd`。需要其他尺寸时双击对应 CMD。
 
 也可右键相应 INF 文件安装，再到 Windows 鼠标属性 → 指针选择对应方案。CMD 会直接应用所选尺寸，并保存安装前设置；`恢复安装前指针.cmd` 可恢复之前的选择。
 
