@@ -1,7 +1,6 @@
-# 下载
+# 当前下载 v1.1.0
 
-- [install](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.0.1/chatgpt-dragon-cursors-install-v1.0.1.zip)
-- [source](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.0.1/chatgpt-dragon-cursors-source-v1.0.1.zip)
-- [png-frames](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.0.1/chatgpt-dragon-cursors-png-frames-v1.0.1.zip)
+- [完整原版](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.1.0/chatgpt-dragon-cursors-original-install-v1.1.0.zip)
+- [完整放大版](https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.1.0/chatgpt-dragon-cursors-large-arrow-install-v1.1.0.zip)
 
-完整解压 install 包后运行所选尺寸 CMD。source 与 PNG 帧为可选编辑资源；旧发行保留。
+两包都带对应可编辑源和PNG帧；请完整解压后使用。旧发行保留。

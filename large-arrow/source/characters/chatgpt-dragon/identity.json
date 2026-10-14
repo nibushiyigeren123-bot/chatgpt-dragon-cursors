@@ -1,0 +1,19 @@
+{
+  "id": "chatgpt-dragon",
+  "display": "ChatGPT 龙娘",
+  "repository": "chatgpt-dragon-cursors",
+  "reference": "E:\\cladue缓存\\AI全家动态指针_20261012\\references\\chatgpt-dragon-user-reference.jpg",
+  "reference_sha256": "7b29aef62b17540c5a6b3050873dab0defa188270ab9232e569b3f999c455a66",
+  "reference_basis": "left adult design adapted into fully clothed chibi",
+  "identity": [
+    "silvery long hair",
+    "two white dragon horns",
+    "violet eyes",
+    "lavender bat wings",
+    "attached scaly dragon tail",
+    "white long gown with lavender lining",
+    "white knot ornaments"
+  ],
+  "reference_visible_credit": "知乎 @光影随云飞; exact creator ownership not independently verified",
+  "source_is_official": false
+}

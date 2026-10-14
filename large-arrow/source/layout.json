@@ -1,0 +1,79 @@
+{
+  "base_canvas": 72,
+  "symbol_origin": [
+    2,
+    2
+  ],
+  "character_origins": {
+    "chatgpt-dragon": {
+      "Arrow": [
+        12,
+        14
+      ],
+      "Help": [
+        10,
+        13
+      ],
+      "AppStarting": [
+        11,
+        13
+      ],
+      "Wait": [
+        16,
+        16
+      ],
+      "Crosshair": [
+        13,
+        16
+      ],
+      "IBeam": [
+        10,
+        13
+      ],
+      "NWPen": [
+        10,
+        13
+      ],
+      "No": [
+        16,
+        16
+      ],
+      "SizeNS": [
+        6,
+        13
+      ],
+      "SizeWE": [
+        9,
+        10
+      ],
+      "SizeNWSE": [
+        18,
+        19
+      ],
+      "SizeNESW": [
+        11,
+        13
+      ],
+      "SizeAll": [
+        13,
+        15
+      ],
+      "UpArrow": [
+        11,
+        13
+      ],
+      "Hand": [
+        14,
+        17
+      ],
+      "Pin": [
+        10,
+        13
+      ],
+      "Person": [
+        16,
+        18
+      ]
+    }
+  }
+}

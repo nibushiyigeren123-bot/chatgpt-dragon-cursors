@@ -1,0 +1,19 @@
+{
+  "repository": "chatgpt-dragon-cursors",
+  "title": "ChatGPT 龙娘",
+  "namespace": "ChatGPTDragonCursors",
+  "accent": "#9b88c8",
+  "version": "1.1.0",
+  "default_character": "chatgpt-dragon",
+  "characters": [
+    {
+      "id": "chatgpt-dragon",
+      "display": "ChatGPT Dragon",
+      "reference_page": null
+    }
+  ],
+  "installation_slot_version": "1.0.0",
+  "keeper_runtime_version": "1.1.0",
+  "edition": "original",
+  "loader": "CreateIconFromResourceEx for ANI"
+}
