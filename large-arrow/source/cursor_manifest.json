@@ -1,6 +1,24 @@
 [
   {
     "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/chatgpt-dragon/96/Arrow.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "fd95183b08414c4af12f53137d53890457552b1bba292fde7deb7ab23d7e254b"
+  },
+  {
+    "character": "chatgpt-dragon",
     "size": 32,
     "role": "Arrow",
     "label": "正常选择",
@@ -13,7 +31,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "517281c7f45e37a8613d1f2f748938af9d06b0aed32763d7c30f5395243bb2a9"
   },
   {
     "character": "chatgpt-dragon",
@@ -29,7 +49,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "f4f71bc71cf0de3b9723f469ecba32b8ce5102bef42b339d417ecaf25913b1db"
   },
   {
     "character": "chatgpt-dragon",
@@ -45,7 +67,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "8fa51d1621386b56d7c0826abb5848ed83af2fc82ddebeddb38ab77e0538ed43"
   },
   {
     "character": "chatgpt-dragon",
@@ -61,7 +85,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "90ecede8e2ccfdccacf68d755a0264650262f8ba9059b5f993a9b9999650c099"
   },
   {
     "character": "chatgpt-dragon",
@@ -77,7 +103,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "bcb4e6a0e092f9086f1be867600ed01bec5a31d4dfda6c35c6eed30124b9d810"
   },
   {
     "character": "chatgpt-dragon",
@@ -93,7 +121,27 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "9c492f65b8e1aa80ca27f84fb59f7b09d43ec83d8d5746d8661b88d29ea07dd1"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/chatgpt-dragon/96/Help.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "73edb68483013209a54c53bb347a33d47c1878720ca0e3c0de99e6961a018002"
   },
   {
     "character": "chatgpt-dragon",
@@ -109,7 +157,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3baa7a09559abb358c379e9a6955e1f6fda703778daf448f309d37d8e5b5fb3b"
   },
   {
     "character": "chatgpt-dragon",
@@ -125,7 +175,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "d35566bb13f65fa36d87ca8b1464a4583f32a5e66e2619b530aae43ec098ad9f"
   },
   {
     "character": "chatgpt-dragon",
@@ -141,7 +193,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "d9423607f046d4d26f5bb911c4f9b2ee4af5050315ebb8949ab0b504282771b8"
   },
   {
     "character": "chatgpt-dragon",
@@ -157,7 +211,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "233f25ec624b915f63ccc69d3ad14eeb1ff7a7761162e4fd93e730f7eca16a19"
   },
   {
     "character": "chatgpt-dragon",
@@ -173,7 +229,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "9758c2d2e97583fc80c33b3c04001e3a02c7baddbeda0a6ef47ed17d154ff7d9"
   },
   {
     "character": "chatgpt-dragon",
@@ -189,7 +247,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "ea000ae647a1d228e32a86d287970cc73af7008a6e393adf25754343cec5ca05"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/chatgpt-dragon/96/AppStarting.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "6e7cb495612679b3b6f4cf245080101233418840fdd2e961252b4b67d471feb7"
   },
   {
     "character": "chatgpt-dragon",
@@ -205,7 +283,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "b7c1ecee880cb7ad6ea25b9d0d5453b1187c2c2417338826774bd31a3aa872bb"
   },
   {
     "character": "chatgpt-dragon",
@@ -221,7 +301,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "cf3c78b0e9d5e94f8549d5a8cf22231372ded2bba09b85f9b185df8e4f45e542"
   },
   {
     "character": "chatgpt-dragon",
@@ -237,7 +319,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "c9adfd16a2c91782017d5fc111a65be4236b766d75a29876b124a9bd3004433a"
   },
   {
     "character": "chatgpt-dragon",
@@ -253,7 +337,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "44abef756bf59f47637e006f9f3b615c781970b3d4829d64cea71f6e4fa3d61a"
   },
   {
     "character": "chatgpt-dragon",
@@ -269,7 +355,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "ddea09e5ccfdecca7fe4c974b3df2712f2cca04213988243787b58c8d12ee4a6"
   },
   {
     "character": "chatgpt-dragon",
@@ -285,7 +373,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "bee8aa1e52d99bcd4c9f868f4589178eb396622c1edac1605b909fbc4dfa424c"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/chatgpt-dragon/96/Wait.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "ea7336dca6534ae5a40df82d68d1ea5848a0161d8715ee5a7151612b05433473"
   },
   {
     "character": "chatgpt-dragon",
@@ -301,7 +409,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "767a6aca4f5844deab377cdcfd88225b829d2c57408f246b22db05b086f12eb3"
   },
   {
     "character": "chatgpt-dragon",
@@ -317,7 +427,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "de0d441a7678229f7cfc1bf0b59cffea7fa795e4d40b74476c1741df58031b22"
   },
   {
     "character": "chatgpt-dragon",
@@ -333,7 +445,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "00977875d81c85e784d0d2f157afcc73e949a2fccf3ddbdff569b10b04ac3a82"
   },
   {
     "character": "chatgpt-dragon",
@@ -349,7 +463,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "2c5d0739752b9f02d09f153dfbb99f4f0d9d6fc835752a0868b28a74db3643de"
   },
   {
     "character": "chatgpt-dragon",
@@ -365,7 +481,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "bda4c6f60135ed088f549497d190e92a6c2994ff8eda1620ba2420c25c381862"
   },
   {
     "character": "chatgpt-dragon",
@@ -381,7 +499,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "27b47e4e534fe54ee05931eb6b9d7e809340fa1cfc50a7dfd081516ff0569924"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/chatgpt-dragon/96/Crosshair.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "067d73508eea2723c18522e9ae01b1103a37ab98fc41ec8b80f2605babe92264"
   },
   {
     "character": "chatgpt-dragon",
@@ -397,7 +535,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "163d7dc8b449aa960ea55e165a918027f087eaa628508ee35141066077a55c08"
   },
   {
     "character": "chatgpt-dragon",
@@ -413,7 +553,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a78716e2f090c87b2bee0efb7dd2c620bd1b830962b8de66e59ff581b569566f"
   },
   {
     "character": "chatgpt-dragon",
@@ -429,7 +571,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "3e34cb28b1cee01746d010b6868658fbb1ab241c41e30911996357cabc7b9df4"
   },
   {
     "character": "chatgpt-dragon",
@@ -445,7 +589,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "4afbac04e010b107a1d11bc6fa9542719b8e08c50ab3826f541ef2989c1deda4"
   },
   {
     "character": "chatgpt-dragon",
@@ -461,7 +607,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "9b62805c787cefb2ae2c05dad1f77113dfe3889bff120d82e00671d98cf51af7"
   },
   {
     "character": "chatgpt-dragon",
@@ -477,7 +625,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "f23ece01a0408b0e3d7fb333f4c36576afc3d04d6f6fe877b047c33d82de6071"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/chatgpt-dragon/96/IBeam.ani",
+    "hotspot": [
+      11,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "45559ac6aaa1b2a57e4b65be9e3119eaa23374233fc61409b3946d77c3baa5c7"
   },
   {
     "character": "chatgpt-dragon",
@@ -493,7 +661,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "855ee229ede0ad9900976e2eed3592f9e461977cf804a58b414bd32cf37366eb"
   },
   {
     "character": "chatgpt-dragon",
@@ -509,7 +679,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8202520b0fca61e407427054c854adc7d591fcf259040789468575fc1a344275"
   },
   {
     "character": "chatgpt-dragon",
@@ -525,7 +697,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "6d3caa2f2deb70aa58fccbe09030cbf8116fe9e64ab0a46ab2c44cb5d1e04d30"
   },
   {
     "character": "chatgpt-dragon",
@@ -541,7 +715,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "8bee80375d8a1e7641550ccdeaf52311468028ee9abe602785a86cd2403b1fb9"
   },
   {
     "character": "chatgpt-dragon",
@@ -557,7 +733,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "c226728e9c46f518b79c89a901df6ce2222dba2674bf810008068944e3ec037c"
   },
   {
     "character": "chatgpt-dragon",
@@ -573,7 +751,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "51d25e648b7b3601e14bca795db87dc0fe318ae66d033daeda1708305887a5eb"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/chatgpt-dragon/96/NWPen.ani",
+    "hotspot": [
+      5,
+      33
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "1a355209173a5c15717d3d957244ae59bdf5ed2acdb0bc96aee3b0a0a55c2485"
   },
   {
     "character": "chatgpt-dragon",
@@ -589,7 +787,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "251c1c51e72a4ae09e10f19f1a9471a1c2d05de5607d78b3f967ce81bfced962"
   },
   {
     "character": "chatgpt-dragon",
@@ -605,7 +805,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8e79b83a1b0507f583e16a88c1969eed11d76670e15592cc7f28fa811d2832da"
   },
   {
     "character": "chatgpt-dragon",
@@ -621,7 +823,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "a60535a7324b3bd8bcd5e2d55854f9e3cab996cf4e905435a3b211653d33ced7"
   },
   {
     "character": "chatgpt-dragon",
@@ -637,7 +841,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "328f1fe6eed4044a0a320f60c3ec09390e2ec5d43a291bbd84f816cdbeb9e288"
   },
   {
     "character": "chatgpt-dragon",
@@ -653,7 +859,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "9c0bd8df581aa312e011448dde9bdd18d025ec801cfea6cbb9d2b5c03f0371a0"
   },
   {
     "character": "chatgpt-dragon",
@@ -669,7 +877,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "66e09c0c8377fba8c9f3ad4cb051e47c3f8b675712430b5795089689f6912326"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/chatgpt-dragon/96/No.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "9af5b8210f0d2a27327964d07bb846578ea403e68d668f368dc19cba6076367e"
   },
   {
     "character": "chatgpt-dragon",
@@ -685,7 +913,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "62e149e215f74fc227e809a390bcce0b5c83343ad2a1e965c0625745b19cdf15"
   },
   {
     "character": "chatgpt-dragon",
@@ -701,7 +931,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "2ccdeccfc8e54d0cf13ce43e67f4c52d4d3da35067e884cd875a00128e5ee795"
   },
   {
     "character": "chatgpt-dragon",
@@ -717,7 +949,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "acd5956b826040400f7e2b9fff06fec0208af018f31494a661906fd17b4b9fb1"
   },
   {
     "character": "chatgpt-dragon",
@@ -733,7 +967,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "2d798327aaf076a3bcc9153bfc026478d2762fe75ef13604aec8aa3c9aed12b0"
   },
   {
     "character": "chatgpt-dragon",
@@ -749,7 +985,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "9e30d2ed3effae31773df8fe0f0e7bb4228c1c73407104d5a384796d36b7dcf1"
   },
   {
     "character": "chatgpt-dragon",
@@ -765,7 +1003,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "24ff0df9e6111816fcbed6ca8f4c0787b98d8a1b42886e16a468c7004c12fdf3"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/chatgpt-dragon/96/SizeNS.ani",
+    "hotspot": [
+      9,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "af33299b0c547d196894f22e35ebab55657d2914308b076fc670699490f4471d"
   },
   {
     "character": "chatgpt-dragon",
@@ -781,7 +1039,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "a5b6c2bae2748a6c9f8f100e328e7fd6b7810484ad6ba06489d75c2df7435972"
   },
   {
     "character": "chatgpt-dragon",
@@ -797,7 +1057,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8b9d38ba0f2484c22cddb0db533af53b8894656d597ba317a25a8e4b9dd33209"
   },
   {
     "character": "chatgpt-dragon",
@@ -813,7 +1075,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "87394ea7400020a364d51d0790e027342c6f4dd4116429cb7fe80a350458a402"
   },
   {
     "character": "chatgpt-dragon",
@@ -829,7 +1093,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "63e1c7356d659604e8b0847718c92884a07b435637d2e292709d7331b148d14f"
   },
   {
     "character": "chatgpt-dragon",
@@ -845,7 +1111,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "ae094ace031fc56307192ebd157f4f9971b1c1be071df7e73a57860f62679dac"
   },
   {
     "character": "chatgpt-dragon",
@@ -861,7 +1129,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "a5246d6aaa0a5493ef51306e0750c122d253c3434b671f01ec6154853b8830db"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/chatgpt-dragon/96/SizeWE.ani",
+    "hotspot": [
+      19,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "e66fb5acd8f621926620a7ff52376d6f501479958425cfc6f2037791226d4200"
   },
   {
     "character": "chatgpt-dragon",
@@ -877,7 +1165,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "0643858453777829eb9b54f9bb886c8219bcc1253ea0ed991c349998c40bdf2d"
   },
   {
     "character": "chatgpt-dragon",
@@ -893,7 +1183,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a78b52cbfee1a1db327a1ea816968879e4e5785148b2a4423d072f8e63d93cab"
   },
   {
     "character": "chatgpt-dragon",
@@ -909,7 +1201,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "5c1950231ed2fe673e093b3a731424fae01de4c4bea5c3f36ed76be919129bcb"
   },
   {
     "character": "chatgpt-dragon",
@@ -925,7 +1219,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "00b732482280126f536384d4a48c2de0b6bab2080c1af49e21060e79c69fa3dd"
   },
   {
     "character": "chatgpt-dragon",
@@ -941,7 +1237,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "54a59d7926565daf3d3c9c4a7fd1d44cf20a58115818f571ee00d6352d5a96ce"
   },
   {
     "character": "chatgpt-dragon",
@@ -957,7 +1255,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "f2cd64402c9aeeca62015eca13a3eefe82555458e6636cfc9ce1d3e8829a3f8a"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/chatgpt-dragon/96/SizeNWSE.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "f1d66b16f43569d21dea44e03be9435ab0c47e3155180be216882740c22713c4"
   },
   {
     "character": "chatgpt-dragon",
@@ -973,7 +1291,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8d3c2ce8bfe7a771edc40bbf042b465a98a06dd41477b1a4435e48b3b90ffd86"
   },
   {
     "character": "chatgpt-dragon",
@@ -989,7 +1309,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "165c84ea2253ee818759cfa9ec4b475fe53e2bfb9d6f98af4efecb1bfd9684ab"
   },
   {
     "character": "chatgpt-dragon",
@@ -1005,7 +1327,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "3f9cdcc686e37bd26d6cab07d5e93605a4f5619389c1b266972937d40b2fca9a"
   },
   {
     "character": "chatgpt-dragon",
@@ -1021,7 +1345,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "caeef7bc8d968c0887ba9a12e0bc34ef33ebab5c8e2e142628ca9b5446a42630"
   },
   {
     "character": "chatgpt-dragon",
@@ -1037,7 +1363,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "0d12a70eb44ea0ade5a046618981921a6b504c9c059509335851b0f9c4abd5a2"
   },
   {
     "character": "chatgpt-dragon",
@@ -1053,7 +1381,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "b5377c1770159d6628267f6045fc81fcd0301014ce17bf9688b7de15cb00a72f"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/chatgpt-dragon/96/SizeNESW.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "1ffd86a9deaaeed5a4fc5e8d8d12d16e66be56d31118ebe79776d87852df244a"
   },
   {
     "character": "chatgpt-dragon",
@@ -1069,7 +1417,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3170de8b2d671d45566798a5a61311e7c96b713f4fa513086841eb4c35e0879c"
   },
   {
     "character": "chatgpt-dragon",
@@ -1085,7 +1435,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "ba7d0320b738b9a366be607f27bb7881544c9150be7d0336c581c0b66aac2b2f"
   },
   {
     "character": "chatgpt-dragon",
@@ -1101,7 +1453,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "9551bd253b900b8076979b6a073aa50b1d6a1fa61cd0bb3b4f3c607cd43cb31a"
   },
   {
     "character": "chatgpt-dragon",
@@ -1117,7 +1471,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "fc1c233b82f628fc68be4b5ab1c9ee5cc831240cb603c8355f9f253b57d52411"
   },
   {
     "character": "chatgpt-dragon",
@@ -1133,7 +1489,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "06dff1d70711b95c5d9031eba2ce86104ee938002ae8fd3736eabccd69eb4458"
   },
   {
     "character": "chatgpt-dragon",
@@ -1149,7 +1507,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "a28652bec94829353dd37d58261abf4594ec8a35e3dea00afec5db141c82e75a"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/chatgpt-dragon/96/SizeAll.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "4634ec26665632a07c2332dd68e83d28c9c8dacb60ca2ccd606d39cb5da20bc9"
   },
   {
     "character": "chatgpt-dragon",
@@ -1165,7 +1543,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "72b4d26b32d3e3e042168d5f4b6cd816df1fa55d8f97718ca4df207f43c9e1af"
   },
   {
     "character": "chatgpt-dragon",
@@ -1181,7 +1561,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "5b7c82dabdd436a7706bb83691a34c46b10e941a0dff819cb1b36c89d275ea0d"
   },
   {
     "character": "chatgpt-dragon",
@@ -1197,7 +1579,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "2be6f206e1883067ceed704f49f677a37385f5d3a2d8d8966e0d8a6fc7562e1b"
   },
   {
     "character": "chatgpt-dragon",
@@ -1213,7 +1597,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "ad7de03bec9961e776809df8df7d3cbe52c27221637806a55f7186a2d82365d4"
   },
   {
     "character": "chatgpt-dragon",
@@ -1229,7 +1615,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "93973dd165dfeb831394a44dbe2225603513a88c14ff2715283ad7f08c4fd2ee"
   },
   {
     "character": "chatgpt-dragon",
@@ -1245,7 +1633,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "eacb2a927f7bdda838a07600a9d260ab1d861a2d6f771d3c3d7ce4103fea0b6c"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/chatgpt-dragon/96/UpArrow.ani",
+    "hotspot": [
+      17,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "5a44a9ed9e4e6f00661c2f3e85fddd5f241b99172c76d9e88c1b99f518a4d212"
   },
   {
     "character": "chatgpt-dragon",
@@ -1261,7 +1669,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3cf313bbf2028f1f8a60c160e898e21da4f6a3b4b54d988a10ce33a5b4cd1477"
   },
   {
     "character": "chatgpt-dragon",
@@ -1277,7 +1687,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e7858bf73b1c8e4af4d079a155eb21c77bf84a450f7a6889f9152367ce474148"
   },
   {
     "character": "chatgpt-dragon",
@@ -1293,7 +1705,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "04c60e75f438cd91f3bb14f992d143c05a08446b09be20d4fa541aaffff604da"
   },
   {
     "character": "chatgpt-dragon",
@@ -1309,7 +1723,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "dc4e1940aa421466c76c947336672b6ad3668e85f952b65cbb5050df79d6a038"
   },
   {
     "character": "chatgpt-dragon",
@@ -1325,7 +1741,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "71d50cb0618656d9ebd4b5539bad6ab400ce67b11ed4041418a8582ef47fe8b2"
   },
   {
     "character": "chatgpt-dragon",
@@ -1341,7 +1759,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "3285e3e4a8c7032dfb5b2a5abbb522304034b415768b68ab428b2e6027e261f7"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/chatgpt-dragon/96/Hand.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "8d17722c90a082aa06ac67e5d7096a2391d6e0100c813be6ee597421ce34369f"
   },
   {
     "character": "chatgpt-dragon",
@@ -1357,7 +1795,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "52c90154c1a9caa57b97539fa047d168b3142a3c285c1f3b92233d56f1676896"
   },
   {
     "character": "chatgpt-dragon",
@@ -1373,7 +1813,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "13c0705c6ab2279f3cda4c490f1487159572843ec0902b0b6259290691bbd628"
   },
   {
     "character": "chatgpt-dragon",
@@ -1389,7 +1831,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "0798a2895dab3157c4de02b7d79ab3d39a04b0bb18ec0231c7e4abc40d2d179c"
   },
   {
     "character": "chatgpt-dragon",
@@ -1405,7 +1849,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "86796ef4b81ddb6428acda834dea2a1d080c48d6b3a6f74b1a46d461d3157365"
   },
   {
     "character": "chatgpt-dragon",
@@ -1421,7 +1867,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "61f805d768c8146aacbc81e0d3790ec00acf8471dfc0405855b3e0fd38155d38"
   },
   {
     "character": "chatgpt-dragon",
@@ -1437,7 +1885,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "31c3262660ccc76d2e98ad5f8f190238c5aec61174b6657f91a1b770d42e1867"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/chatgpt-dragon/96/Pin.ani",
+    "hotspot": [
+      16,
+      34
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "ec91625fe5a507229268177bcddc4f426e8c5b5a25f8c2cb70ce8ec817b77a05"
   },
   {
     "character": "chatgpt-dragon",
@@ -1453,7 +1921,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "dd6dd905091a54016d0ff621bf5cf50f564aefc6c6c4c9a2ae711d23927599a3"
   },
   {
     "character": "chatgpt-dragon",
@@ -1469,7 +1939,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "49468a600974daaf62179440b4dd33aaf8dacc61d9017145bd2cb8da6ed804dc"
   },
   {
     "character": "chatgpt-dragon",
@@ -1485,7 +1957,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "a4ee0643bf25d57fd7b6aadceef3f8d68ec95d6837832f3458e2b3b3d430e3a4"
   },
   {
     "character": "chatgpt-dragon",
@@ -1501,7 +1975,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "42d0cae97287f399ea8cdcc98e26057339306a6be5acee610b931b593702bbac"
   },
   {
     "character": "chatgpt-dragon",
@@ -1517,7 +1993,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d95d1697b66cd5a6a81ec5eef35a924faf2be09ffd6fc064fe1b0cca4d038cce"
   },
   {
     "character": "chatgpt-dragon",
@@ -1533,7 +2011,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "802ac172704e38e2dd25ed45427a708936431909f2f82f4a583bbc4227678076"
+  },
+  {
+    "character": "chatgpt-dragon",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/chatgpt-dragon/96/Person.ani",
+    "hotspot": [
+      18,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "87153360f2a12747d88794f5fef75bf31d585f5c0f084a88a8f1bfd7040f4ab4"
   },
   {
     "character": "chatgpt-dragon",
@@ -1549,7 +2047,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "5b588a453fe08da2f655de3ae4d5b4253ec379cca7ca40b7abd5a729d0955a2b"
   },
   {
     "character": "chatgpt-dragon",
@@ -1565,7 +2065,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "2fbd0d47c8497a75254515ead070c788e1e5e861d940e70f3964bd4e99794697"
   },
   {
     "character": "chatgpt-dragon",
@@ -1581,7 +2083,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "31743c5f96c5f80ebfc60338da6fd2223a38b73db77799284a7235c87b955596"
   },
   {
     "character": "chatgpt-dragon",
@@ -1597,7 +2101,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "de8d7da3c1707ab94f62f40fddf96b7e4a1cd16076ba88a79c444b3b4ff46beb"
   },
   {
     "character": "chatgpt-dragon",
@@ -1613,7 +2119,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "362b3133325b8782f7767c82d1e5e73d720f4f21eed7aac54c622dc8efc2f7e6"
   },
   {
     "character": "chatgpt-dragon",
@@ -1629,6 +2137,8 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "3a0d8460dcd1d0083ead64cbfff1c4f2c54796892ce63678436abfc42ebbed45"
   }
 ]

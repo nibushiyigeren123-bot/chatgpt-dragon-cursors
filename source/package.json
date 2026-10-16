@@ -3,7 +3,7 @@
   "title": "ChatGPT 龙娘",
   "namespace": "ChatGPTDragonCursors",
   "accent": "#9b88c8",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "default_character": "chatgpt-dragon",
   "characters": [
     {
@@ -13,7 +13,29 @@
     }
   ],
   "installation_slot_version": "1.0.0",
-  "keeper_runtime_version": "1.1.0",
+  "keeper_runtime_version": "1.2.0",
   "edition": "original",
-  "loader": "CreateIconFromResourceEx for ANI"
+  "loader": "CreateIconFromResourceEx for ANI",
+  "baseline_sizes": [
+    32,
+    48,
+    64,
+    96,
+    128,
+    256
+  ],
+  "render_sizes": {
+    "32": 32,
+    "48": 48,
+    "64": 64,
+    "96": 96,
+    "128": 128,
+    "256": 256
+  },
+  "display_names": {
+    "chatgpt-dragon": "ChatGPT Dragon"
+  },
+  "scheme_suffix": " AI ",
+  "keeper_run_name": "ChatGPTDragonCursorsKeeper",
+  "keeper_object_prefix": "ChatGPTDragonCursorsKeeper"
 }

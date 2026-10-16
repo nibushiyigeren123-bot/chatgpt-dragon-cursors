@@ -1,0 +1,65 @@
+{
+  "version": "1.2.0",
+  "success": true,
+  "fileVerification": {
+    "repository": "chatgpt-dragon-cursors",
+    "aniFiles": 221,
+    "decodedFrames": 1768,
+    "characterIdentityFrames": 952,
+    "maxGapError": 1.0,
+    "rawSourceFilesUnchanged": 20,
+    "paletteChecks": [
+      {
+        "character": "chatgpt-dragon",
+        "edition": "original",
+        "size": 96,
+        "outline": "#352b53",
+        "verified": true
+      },
+      {
+        "character": "chatgpt-dragon",
+        "edition": "original",
+        "size": 256,
+        "outline": "#352b53",
+        "verified": true
+      },
+      {
+        "character": "chatgpt-dragon",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#352b53",
+        "verified": true
+      },
+      {
+        "character": "chatgpt-dragon",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#352b53",
+        "verified": true
+      }
+    ],
+    "success": true
+  },
+  "actualWindowsAcceptance": {
+    "repository": "chatgpt-dragon-cursors",
+    "observations": 32,
+    "sameDefaultCaptures": 15,
+    "nativeCharacterComparisons": [
+      {
+        "character": "chatgpt-dragon",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 3619,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          11,
+          9
+        ]
+      }
+    ],
+    "success": true
+  },
+  "environment": "Windows11-Lab; interactive LabUser; 96DPI; system preference32 and48",
+  "scope": "This repository: real CMD for every character/tier; all17 native system role sizes; default-scheme pixel identity. Shared edge-case tests: Gemini reboot, user-size48, INF96/256, legacy-backup filtering, cache repair, matching-name foreign paths.",
+  "limitations": "Actual VM acceptance covers this Windows11 build at96DPI; otherWindows versions and DPI combinations are not claimed tested."
+}

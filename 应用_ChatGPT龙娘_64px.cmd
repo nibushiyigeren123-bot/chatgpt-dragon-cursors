@@ -1,9 +1,8 @@
 @echo off
+setlocal
+set "PSModulePath="
 cd /d "%~dp0"
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0apply-updated.ps1" -Character chatgpt-dragon -Size 64
-if errorlevel 1 (
- pause
- exit /b 1
-)
-echo Traditional animated cursors applied. No resident background component.
-pause
+powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0apply-updated.ps1" -Character chatgpt-dragon -Size 64
+set "TaskExit=%errorlevel%"
+if not "%TaskExit%"=="0" pause
+exit /b %TaskExit%
