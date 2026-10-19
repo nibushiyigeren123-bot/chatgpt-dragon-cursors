@@ -1,0 +1,26 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "chatgpt-dragon-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "f0bf3515869076a35d21d7dca22986ec0bf193308fe502f1e9e7143b1f3a1952",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 13,
+      "characters": [
+        "chatgpt-dragon"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "chatgpt-dragon-cursors-avoidance-v1.3.0.zip",
+      "sha256": "6d7e47e19cd6110dc338e1c4fe80602c5b9f13b2ea3544cc3e9f82b5be7dcc1b",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 13,
+      "characters": [
+        "chatgpt-dragon"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
