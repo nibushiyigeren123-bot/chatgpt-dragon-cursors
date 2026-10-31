@@ -1,0 +1,54 @@
+{
+  "version": "v1.3.2",
+  "kind": "non-avoidance",
+  "installation": {
+    "name": "chatgpt-dragon-cursors-non-avoidance-v1.3.2.zip",
+    "bytes": 42508328,
+    "sha256": "660c6fb1da7fbc7f961a6bf25bd163501b407e2ddc4de57e26e218cd1ad78f52",
+    "members": 2039
+  },
+  "editable_source": {
+    "name": "chatgpt-dragon-cursors-non-avoidance-source-v1.3.2.zip",
+    "bytes": 271721,
+    "sha256": "3aefc7520346c681ab49fbb3f65e9a4b6909265a19027b352485fd24338ab8c8",
+    "members": 34,
+    "copied_source_members": 31
+  },
+  "runtime_identity": {
+    "runtime/AICursorFamilyOriginalR1.exe": "48ec1b43be830981062eccf2fecbd25b8ee167b6e797906b8958030bafdf26be",
+    "control.ps1": "ec8dd65c9f3b6ca76d281365a1f1ef3b4f86ba731f30c6f389e5fd3cbc8eeb89",
+    "ControlNative.cs": "462a58b46ca185a2681786f9724f575ce31c4cf187d11b4cffce8dfcab012b36"
+  },
+  "rc1_equivalence": {
+    "version": "v1.3.2",
+    "tested_rc1_zip_name": "chatgpt-dragon-cursors-non-avoidance-v1.3.2-rc1.zip",
+    "tested_rc1_sha256": "a01ba84569289600eb02285e974b8847b671eb3d05f5bea4113a4ebcf9a6a47d",
+    "runtime_identity": {
+      "runtime/AICursorFamilyOriginalR1.exe": "48ec1b43be830981062eccf2fecbd25b8ee167b6e797906b8958030bafdf26be",
+      "control.ps1": "ec8dd65c9f3b6ca76d281365a1f1ef3b4f86ba731f30c6f389e5fd3cbc8eeb89",
+      "ControlNative.cs": "462a58b46ca185a2681786f9724f575ce31c4cf187d11b4cffce8dfcab012b36"
+    },
+    "unchanged_existing_members": 2033,
+    "unchanged_media_members": 1989,
+    "unchanged_profile_manifests": 13,
+    "unchanged_cmd_members": 15,
+    "modified_existing_members": [
+      "README.md",
+      "技术说明.md",
+      "runtime/characters.json",
+      "payload-hashes.json"
+    ],
+    "added_members": [
+      "VALIDATION.md",
+      "release-equivalence.json"
+    ],
+    "deleted_members": [],
+    "configuration_only_difference": "characters.json scheme string replaces v1.3.2-rc1 with v1.3.2; all other fields and profile order unchanged",
+    "qa_basis": "Accepted local RC1 representative VM tests with documented Win11 bootStop boundary; not a new full runtime matrix."
+  },
+  "avoidance": {
+    "updated": false,
+    "version": "v1.3.1",
+    "download_url": "https://github.com/nibushiyigeren123-bot/chatgpt-dragon-cursors/releases/download/v1.3.1/chatgpt-dragon-cursors-avoidance-v1.3.1.zip"
+  }
+}
