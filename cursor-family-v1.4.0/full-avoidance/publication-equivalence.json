@@ -1,0 +1,126 @@
+{
+  "version": "v1.4.0",
+  "repository": "chatgpt-dragon-cursors",
+  "localDeliveryZipSha256": "97e47cc4bade292caa2d9656fc25d5eb0e2713d5af8b45e828cbecf5490a3588",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "unchangedExistingMembers": 2021,
+  "unchangedMedia": 1989,
+  "unchangedCmd": 2,
+  "cmdInvocationPreserved": 15,
+  "cmdWaitingMessageAdded": 13,
+  "allowedModifiedExisting": [
+    "README.md",
+    "VALIDATION.md",
+    "技术说明.md",
+    "candidate-consistency.json",
+    "v140-package-provenance.json",
+    "release-equivalence.json",
+    "payload-hashes.json",
+    "validation-evidence/win10-evidence-index.json",
+    "validation-evidence/win11-evidence-index.json",
+    "05_ChatGPT龙娘/Plus128档.cmd",
+    "05_ChatGPT龙娘/Plus256档.cmd",
+    "05_ChatGPT龙娘/Plus32档.cmd",
+    "05_ChatGPT龙娘/Plus48档.cmd",
+    "05_ChatGPT龙娘/Plus64档.cmd",
+    "05_ChatGPT龙娘/Plus72档.cmd",
+    "05_ChatGPT龙娘/Plus96档.cmd",
+    "05_ChatGPT龙娘/普通128档.cmd",
+    "05_ChatGPT龙娘/普通256档.cmd",
+    "05_ChatGPT龙娘/普通32档.cmd",
+    "05_ChatGPT龙娘/普通48档.cmd",
+    "05_ChatGPT龙娘/普通64档.cmd",
+    "05_ChatGPT龙娘/普通96档.cmd"
+  ],
+  "modifiedExisting": {
+    "05_ChatGPT龙娘/Plus128档.cmd": {
+      "before": "c2c782a39ad0c5c563779e1d97ebf635e8d448732c195d75f709f40d883630c5",
+      "after": "7ed08460a1be6937c6b025f16e558709d974238fc7c38800eb1970348896e706"
+    },
+    "05_ChatGPT龙娘/Plus256档.cmd": {
+      "before": "777656c06be601eedb0be4043e6fa06f40d6b406f2cf3d466a59d581d11c2e40",
+      "after": "65c159bf3723665778940ab46236355fc5aeafb04ac9d64298e68a6493c70cd5"
+    },
+    "05_ChatGPT龙娘/Plus32档.cmd": {
+      "before": "033d60d779de5c6e5ea3f8b025857c3ca49f04d0002fdd17254ebc10d8a7f3ec",
+      "after": "2f1a193da6dfc538b301f1ba3d2371d4df7e61f8cb2d4e39f544bf3e90aca3c3"
+    },
+    "05_ChatGPT龙娘/Plus48档.cmd": {
+      "before": "28afbde732595d8938e6ba509e831affcb9797109c31c62e7cdd2ddce9d5d5c2",
+      "after": "c9b2c03434199e51e537d7a673dcd1ea1dc0fa07b4122e448e6bed2f837456c1"
+    },
+    "05_ChatGPT龙娘/Plus64档.cmd": {
+      "before": "0d9a1a5b30c1ccf6a513fa58038de9f3bbb91b5dc9c25dac0324cfb7ea13987e",
+      "after": "b2f9c2e0a54f71b3c1203e3bad18904a0d05b54881b1bdedebe4cc8725e11aca"
+    },
+    "05_ChatGPT龙娘/Plus72档.cmd": {
+      "before": "cb5bd20e209e6380e5b4e86aaf48abbf3a9779ed158d984499ffd55849406fe0",
+      "after": "cf1968d54ddd714c305b1b62ed2220bd63c434414088a83902423dfd73ad67c7"
+    },
+    "05_ChatGPT龙娘/Plus96档.cmd": {
+      "before": "70210ae0cdd8acad809965de9e15dbfb6a6174869bed5f8b44e160120c1ca7ba",
+      "after": "272393adbde9be3c84e84441ca927e58e86650a8585b26635a1dee4b5c461137"
+    },
+    "05_ChatGPT龙娘/普通128档.cmd": {
+      "before": "396b18fa52bb1b0c3ffaa28ba3bc97dc3c9d3966639f908b99f9af236a64e56d",
+      "after": "f6581330e7ae5986f2c70cfee501cd3688338f9c6cf5935d780b0ee736675795"
+    },
+    "05_ChatGPT龙娘/普通256档.cmd": {
+      "before": "1d893a57a796af5d10dba8b145f529530fe8d502db293bbe09d5018b185cc303",
+      "after": "43414be64b7c8095c313affdb4c5e98160267b7c25eeea6d6ee332ece7b47636"
+    },
+    "05_ChatGPT龙娘/普通32档.cmd": {
+      "before": "8ba6e22a1aa4cdc3c39db7f2f919899ab21c0017fe424f39467341161994dea7",
+      "after": "ae7178379cba59920b0139020e6272c0fe1703358514beacd230eaf06493338c"
+    },
+    "05_ChatGPT龙娘/普通48档.cmd": {
+      "before": "ac7c8d7673e41de323b179e317eaa3ab97679067e045bd0a318ed9bf9580ce95",
+      "after": "b22165218bd43614813f4701926b24ad298cd717d0f9d33dd25c871b67e48fda"
+    },
+    "05_ChatGPT龙娘/普通64档.cmd": {
+      "before": "5dc42eb801ac841b17c3ff33b60d633bc153c17f37120b897a912aa06fc1fafb",
+      "after": "b949d0b4e68f3ec5c0ddd30f4e7601f542eb40223328b96156d724a5b4143807"
+    },
+    "05_ChatGPT龙娘/普通96档.cmd": {
+      "before": "de28c817df986de0d10352b943548ef4f28d5e2037ce714a65dc646c64ae2a03",
+      "after": "12ddc6848ffce585d5b9d75961c62eefd67c6dd233c19aa09d4549d818c5899e"
+    },
+    "README.md": {
+      "before": "896ca67f0c93bc5ff2035283426d2a903aca75016e1fa2e505c32591f024758a",
+      "after": "a7b1055e0c37c23d58e238c517f81fd3a4f0cef6cf1243aba4bc418c9459a9db"
+    },
+    "VALIDATION.md": {
+      "before": "a6fbc6c5bb87bd5237b942a15a9e9e5bb6cd56347414c891716854c01043e714",
+      "after": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    "candidate-consistency.json": {
+      "before": "91d35315d4b203c88e4e430a0a5a2c268f54dc3860db1a8344390b407f22a0e7",
+      "after": "6fd33cdef8b7b3e4c9c0cb76cd71c5b1d4206393499e2b77d59eeae7e08a5345"
+    },
+    "release-equivalence.json": {
+      "before": "f2855c05dfc2f9b2797d20acb777b2e2bc2f4d7bc7e513893072af7e34d86042",
+      "after": "e9fe7639e0c77b3a1dfc8b197a2546a78a17a11e69f08256a419c79de9915ccb"
+    },
+    "v140-package-provenance.json": {
+      "before": "48e7feb441644a6f48f222ba8146b2b4979e58fe5238acd53977f768eef6b472",
+      "after": "5a7c19238c042271f4b443fdabee9e1bc9c10d273e7aea8e2f03677f9ea7a1f0"
+    },
+    "validation-evidence/win10-evidence-index.json": {
+      "before": "0714d0c4e5960680df8b12366693655b477dff5adfd0c25d328ebc8636f4154d",
+      "after": "c02b3721c65f9354c932756c09e0fea1c2d6190c59c6583c88fef84ce8db1cd0"
+    },
+    "validation-evidence/win11-evidence-index.json": {
+      "before": "37f54f18306c8e0c11e669fe4b6e0394df307d6a5042adb49e08ba0d05f29064",
+      "after": "1bf03d69d019d73ffb73257e996b85d34534397261cb292066a0c684e601c681"
+    },
+    "技术说明.md": {
+      "before": "9264ed84bc5ea5a6f51bad74067117773cb91179062291f21538e0049caecebd",
+      "after": "fca43646d9bf8bc80d1490ab7504f846f44f4ee245bbe1071c3e6ce48dfbfce2"
+    }
+  },
+  "deletedMembers": [],
+  "addedMembers": [
+    "publication-equivalence.json"
+  ],
+  "runtimeAndSourceAndConfigurationUnchanged": true
+}

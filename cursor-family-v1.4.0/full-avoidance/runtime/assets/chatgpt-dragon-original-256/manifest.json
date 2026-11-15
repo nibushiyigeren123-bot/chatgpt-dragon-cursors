@@ -1,0 +1,3079 @@
+[
+  {
+    "role": "Arrow",
+    "frames": 8,
+    "frame_ms": 200.0,
+    "jiffies": 12,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      2,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Arrow",
+    "body_hashes": [
+      "2e95a94cd4a52d978e745350ab34356aacc61927454974fd24901e6a13c1a27d",
+      "75e80b8cc36ee7e89b9abfdee92a6e9ea6a371c2d84558886d282103cf96bb6e",
+      "acf540460f893ae71a082318c8bfc68b80d4139f73424e2ac49fb7028bfda97a",
+      "75e80b8cc36ee7e89b9abfdee92a6e9ea6a371c2d84558886d282103cf96bb6e",
+      "98c966501dcb730d44da8119c84f5898f094ed1a1607f6b79f40571e894363cc",
+      "8f1b45fb35ca6854a49360519c4f4237f69ac908b8b7d8b856effa7a37d0fd86",
+      "527de0aa3a7f79dbfe9678cfd3afcc6281217a060abe6f82a0dc1362aae0e99e",
+      "8f1b45fb35ca6854a49360519c4f4237f69ac908b8b7d8b856effa7a37d0fd86"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "2479cbe5b67fcf31d4ae29b1056517fce730ee3865ec7b04abac668469f58986",
+      "18e518fa341ccd5c9cc958d8a932c53ec36d9ca70d7d1774a1ff886d2ebc0169",
+      "5be7a1a9bf65aa469f289e171128a6802905b67f6e8634912e776c011b116323",
+      "18e518fa341ccd5c9cc958d8a932c53ec36d9ca70d7d1774a1ff886d2ebc0169",
+      "8670ce936912189ee211e0d72b32b24d7bb105bbe0ea2d631f37dd4f5a169144",
+      "8f5176f86470aa2fc5f1222db67b0ccfe32f39874358394dfc43120b071afcf7",
+      "95136b8e710f3a0ba257ed612c5b48f043bb7c6ade938ef492b70624569b1843",
+      "8f5176f86470aa2fc5f1222db67b0ccfe32f39874358394dfc43120b071afcf7"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-00.png",
+        "frozen_sha256": "2479cbe5b67fcf31d4ae29b1056517fce730ee3865ec7b04abac668469f58986",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2e95a94cd4a52d978e745350ab34356aacc61927454974fd24901e6a13c1a27d",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-01.png",
+        "frozen_sha256": "18e518fa341ccd5c9cc958d8a932c53ec36d9ca70d7d1774a1ff886d2ebc0169",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "75e80b8cc36ee7e89b9abfdee92a6e9ea6a371c2d84558886d282103cf96bb6e",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-02.png",
+        "frozen_sha256": "5be7a1a9bf65aa469f289e171128a6802905b67f6e8634912e776c011b116323",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acf540460f893ae71a082318c8bfc68b80d4139f73424e2ac49fb7028bfda97a",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-03.png",
+        "frozen_sha256": "18e518fa341ccd5c9cc958d8a932c53ec36d9ca70d7d1774a1ff886d2ebc0169",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "75e80b8cc36ee7e89b9abfdee92a6e9ea6a371c2d84558886d282103cf96bb6e",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-04.png",
+        "frozen_sha256": "8670ce936912189ee211e0d72b32b24d7bb105bbe0ea2d631f37dd4f5a169144",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "98c966501dcb730d44da8119c84f5898f094ed1a1607f6b79f40571e894363cc",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-05.png",
+        "frozen_sha256": "8f5176f86470aa2fc5f1222db67b0ccfe32f39874358394dfc43120b071afcf7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8f1b45fb35ca6854a49360519c4f4237f69ac908b8b7d8b856effa7a37d0fd86",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-06.png",
+        "frozen_sha256": "95136b8e710f3a0ba257ed612c5b48f043bb7c6ade938ef492b70624569b1843",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "527de0aa3a7f79dbfe9678cfd3afcc6281217a060abe6f82a0dc1362aae0e99e",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Arrow-07.png",
+        "frozen_sha256": "8f5176f86470aa2fc5f1222db67b0ccfe32f39874358394dfc43120b071afcf7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8f1b45fb35ca6854a49360519c4f4237f69ac908b8b7d8b856effa7a37d0fd86",
+        "symbol_rgba_sha256": "b2430b78c8ecb3cb8bf0b6e6ec33238fb95a27b6e9f8bbc18b50ed697530ce39",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      48,
+      63
+    ]
+  },
+  {
+    "role": "Help",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      2,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Help",
+    "body_hashes": [
+      "7af93f57c6307e985c4d58f51445a5218aced2b0f6c8397c73851011d903fd75",
+      "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+      "fdee88e06f5a3124a673379731e45d314e50c44f98dc3346095441fb0091f3bc",
+      "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+      "8659d666d6b56d820f674c6025eb1a96aca82258cc7f20600a1a983e6a8f7e55",
+      "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd",
+      "5e2840279e8eaff845b9d9ee23d6659dcd0f0ba837abdf6ec41e804e6503a70a",
+      "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "9afa2aba4d99529a30fd8e9ec19a37c70e0424d8d1722e522a840bfe7d8e1348",
+      "35213ce6b90c6403c8e83f72d4341e867ff0d3b82ce7701a84be7adcbfdbeb80",
+      "7206076018453a7ac9fc09e770627ff144d58efe5c333bc2f715cc439d869dd6",
+      "35213ce6b90c6403c8e83f72d4341e867ff0d3b82ce7701a84be7adcbfdbeb80",
+      "e7a5142e6fac2dea815f4cf0d2a3db60d209d900b811ef17e309d639262673ee",
+      "b68feebeff281ac79b850df984d02a8883d416902dbb109f837ea16c92ad2352",
+      "4c575fcebf66577cdc63372fe845a4386b2cd5945fd4f04a975a229ac9f3c875",
+      "b68feebeff281ac79b850df984d02a8883d416902dbb109f837ea16c92ad2352"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-00.png",
+        "frozen_sha256": "9afa2aba4d99529a30fd8e9ec19a37c70e0424d8d1722e522a840bfe7d8e1348",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7af93f57c6307e985c4d58f51445a5218aced2b0f6c8397c73851011d903fd75",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-01.png",
+        "frozen_sha256": "35213ce6b90c6403c8e83f72d4341e867ff0d3b82ce7701a84be7adcbfdbeb80",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-02.png",
+        "frozen_sha256": "7206076018453a7ac9fc09e770627ff144d58efe5c333bc2f715cc439d869dd6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fdee88e06f5a3124a673379731e45d314e50c44f98dc3346095441fb0091f3bc",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-03.png",
+        "frozen_sha256": "35213ce6b90c6403c8e83f72d4341e867ff0d3b82ce7701a84be7adcbfdbeb80",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-04.png",
+        "frozen_sha256": "e7a5142e6fac2dea815f4cf0d2a3db60d209d900b811ef17e309d639262673ee",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8659d666d6b56d820f674c6025eb1a96aca82258cc7f20600a1a983e6a8f7e55",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-05.png",
+        "frozen_sha256": "b68feebeff281ac79b850df984d02a8883d416902dbb109f837ea16c92ad2352",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-06.png",
+        "frozen_sha256": "4c575fcebf66577cdc63372fe845a4386b2cd5945fd4f04a975a229ac9f3c875",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e2840279e8eaff845b9d9ee23d6659dcd0f0ba837abdf6ec41e804e6503a70a",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Help-07.png",
+        "frozen_sha256": "b68feebeff281ac79b850df984d02a8883d416902dbb109f837ea16c92ad2352",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd",
+        "symbol_rgba_sha256": "f7b28ba28b31391f3d9f76722c1246531e45a8af1deee10aba9f1fed8547ae03",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      53
+    ]
+  },
+  {
+    "role": "AppStarting",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      4
+    ],
+    "symbol_hotspot": [
+      2,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/AppStarting",
+    "body_hashes": [
+      "89b6087d70fab0288239f6e4a2b06aadb02508f10438ef9b1f55b3cea44c0be1",
+      "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+      "424a4a23418e3319c80c20ba42c56936a6a740cd3eb4ff176c0f13b2d3b13ea3",
+      "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+      "f4625d54622e8b54d1ade2044a0fe4fabd2f7e6f0d2e3c5fe214ea4314eb7dae",
+      "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4",
+      "e9ea691559716ece2c6a2f28ec902124970c7f4f827bbdea18da1ff97f95a22d",
+      "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "49892e7b8a73b8f75d29866ed03e4812a2c22abd25a37f2f40d2b68007043314",
+      "38ff706a4ce013b170596cb4905e8f05308232bd0a75973e484359514e499a8d",
+      "dcc58994fe614979714f30aae20b41a6297648564c3bea3d905d60c5753b870a",
+      "0af8eebfc66bb6a7bc2635ee3fd0acb518dce812cd657893bb84fa4b295bc3f1",
+      "d2dac2fded06ef3adfea888861b7bd8f11f0153a00baf291415720baff91c102",
+      "49b7f3258b1ea9e56f3d7dfb92af63a8364648a3dffb8b08052d8d0d04f803d5",
+      "2b4690b91064df47d309cc6e9e963f028a6fbe86c0149fc358b50ceec59b121a",
+      "73b4fe837dbcaed0309f141b0e647914b74ec35040e41f00994faf0829b5c360"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-00.png",
+        "frozen_sha256": "49892e7b8a73b8f75d29866ed03e4812a2c22abd25a37f2f40d2b68007043314",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "89b6087d70fab0288239f6e4a2b06aadb02508f10438ef9b1f55b3cea44c0be1",
+        "symbol_rgba_sha256": "974a209ed9985c2b378c98aa5a097528425c32da542b86af8d36d1eaf80bae3a",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-01.png",
+        "frozen_sha256": "38ff706a4ce013b170596cb4905e8f05308232bd0a75973e484359514e499a8d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+        "symbol_rgba_sha256": "5e31598b10a486cbc90d25557d781c7598f9708ba5dfbf1975d6c656b4375654",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-02.png",
+        "frozen_sha256": "dcc58994fe614979714f30aae20b41a6297648564c3bea3d905d60c5753b870a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "424a4a23418e3319c80c20ba42c56936a6a740cd3eb4ff176c0f13b2d3b13ea3",
+        "symbol_rgba_sha256": "7c451500ceca291f8554435fc63a0730d135030510943ddfce9bc87f4c0783bc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-03.png",
+        "frozen_sha256": "0af8eebfc66bb6a7bc2635ee3fd0acb518dce812cd657893bb84fa4b295bc3f1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+        "symbol_rgba_sha256": "bebe442587ed0f73c1d10fa6e84974f1dcc909e1c13946f47be080d08978551f",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-04.png",
+        "frozen_sha256": "d2dac2fded06ef3adfea888861b7bd8f11f0153a00baf291415720baff91c102",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f4625d54622e8b54d1ade2044a0fe4fabd2f7e6f0d2e3c5fe214ea4314eb7dae",
+        "symbol_rgba_sha256": "0751502b335f4422e34c6e78ed70201d816af1f57a0d651bfb78833510bf16cc",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-05.png",
+        "frozen_sha256": "49b7f3258b1ea9e56f3d7dfb92af63a8364648a3dffb8b08052d8d0d04f803d5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4",
+        "symbol_rgba_sha256": "34f2ffe75d413b85409a2d1cd1c310fc22ba4ecdf4d10b4ca2ff83f9fa92373b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-06.png",
+        "frozen_sha256": "2b4690b91064df47d309cc6e9e963f028a6fbe86c0149fc358b50ceec59b121a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e9ea691559716ece2c6a2f28ec902124970c7f4f827bbdea18da1ff97f95a22d",
+        "symbol_rgba_sha256": "2ece829eb4fe48dfb6d5cc720b9006aec5c60d152dce0315c770eff3f3074de0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\AppStarting-07.png",
+        "frozen_sha256": "73b4fe837dbcaed0309f141b0e647914b74ec35040e41f00994faf0829b5c360",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4",
+        "symbol_rgba_sha256": "823c01c5c1757646c857cf746c4586e1c9cc581a658b0556b622657d1ccdf6e2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      51
+    ]
+  },
+  {
+    "role": "Wait",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      34
+    ],
+    "symbol_hotspot": [
+      32,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Wait",
+    "body_hashes": [
+      "6963ee48e52c26871df66fa5ee347feb494bfec021628c279236a8427defe56e",
+      "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+      "4b02f688f23d69e928f0a99bed6354f1e49737ff99c9f3dda2ea80d632bb1db0",
+      "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+      "92054123eda3f0fa8c4cabee8e7b0077d751c50fed63493f76974e6863f7e76d",
+      "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+      "c4378950a1b6043f0cfa55e99151c646f06f99045cdac8b228d057c5a24dfaa7",
+      "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "fa65bf10cf37c96a077efddcaa97054ed75c9aa410e99b868a8e6dc992d1d0b5",
+      "accba8712834e4f8be41009a69e13da822758909a060767fa4ad9baadb107743",
+      "a87a40ddceec7ff15d86a44adef70d1db83c84ff9bf3caf09d01b0c115c6c992",
+      "6739bd236d0acc22c35bc0b7a8458027f6e0af3cf48f0fe5f53a4a1e1605a500",
+      "b9eaebd97c97b2ddc8291033885d8a7be40d80031f2bf631a5230fab6f3d9faf",
+      "c581d6bad66dbdd5fde2fa4e8dcd4d8618b16769bf1bd45caf4a4dd37d1d559b",
+      "9169e2569edfe0a59e18b619b98d5d4b66ecf2563fd93da5e74acfa545fc4264",
+      "7bc60fd1c81c5a8f02bf038fd4d3c577690994d91ca963ad9175c3b7d294f905"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-00.png",
+        "frozen_sha256": "fa65bf10cf37c96a077efddcaa97054ed75c9aa410e99b868a8e6dc992d1d0b5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6963ee48e52c26871df66fa5ee347feb494bfec021628c279236a8427defe56e",
+        "symbol_rgba_sha256": "baf3ea1c0be65615c1544326d219e83c0f72256f2ac3a0e247f3d3c24eef2331",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-01.png",
+        "frozen_sha256": "accba8712834e4f8be41009a69e13da822758909a060767fa4ad9baadb107743",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+        "symbol_rgba_sha256": "0d535940fb892eda06e25e40f367b7ff3cada2d14bf74f4488041ab107d360d4",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-02.png",
+        "frozen_sha256": "a87a40ddceec7ff15d86a44adef70d1db83c84ff9bf3caf09d01b0c115c6c992",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4b02f688f23d69e928f0a99bed6354f1e49737ff99c9f3dda2ea80d632bb1db0",
+        "symbol_rgba_sha256": "9a7e06f6c2772fa2e6045b0588c2c4595d4bafd16c16a97cdc8ca4bedfbae080",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-03.png",
+        "frozen_sha256": "6739bd236d0acc22c35bc0b7a8458027f6e0af3cf48f0fe5f53a4a1e1605a500",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+        "symbol_rgba_sha256": "c09654504fe07a82a63d70e7fbbea2605ebdc496125e434fffed609adb1e20a2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-04.png",
+        "frozen_sha256": "b9eaebd97c97b2ddc8291033885d8a7be40d80031f2bf631a5230fab6f3d9faf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "92054123eda3f0fa8c4cabee8e7b0077d751c50fed63493f76974e6863f7e76d",
+        "symbol_rgba_sha256": "583a4b7634a56c0f77da0f7c803761a66357fb1dd8798d72a19adaa78abe7c37",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-05.png",
+        "frozen_sha256": "c581d6bad66dbdd5fde2fa4e8dcd4d8618b16769bf1bd45caf4a4dd37d1d559b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+        "symbol_rgba_sha256": "696dfcae6e19e98e7a8156c250bbd5ecd1cd6ed804d1347e308f86b61af226ea",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-06.png",
+        "frozen_sha256": "9169e2569edfe0a59e18b619b98d5d4b66ecf2563fd93da5e74acfa545fc4264",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c4378950a1b6043f0cfa55e99151c646f06f99045cdac8b228d057c5a24dfaa7",
+        "symbol_rgba_sha256": "2b61900884e1b9ddd1a4b277b157afe17667001e5d6f06961cacbd2f189c32b9",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Wait-07.png",
+        "frozen_sha256": "7bc60fd1c81c5a8f02bf038fd4d3c577690994d91ca963ad9175c3b7d294f905",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+        "symbol_rgba_sha256": "5e6510cb7e9e177a58f2847a771a90771458fb285d3b1d39e0db6b2173e9a81c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      63
+    ]
+  },
+  {
+    "role": "Crosshair",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      34
+    ],
+    "symbol_hotspot": [
+      32,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Crosshair",
+    "body_hashes": [
+      "7af93f57c6307e985c4d58f51445a5218aced2b0f6c8397c73851011d903fd75",
+      "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+      "fdee88e06f5a3124a673379731e45d314e50c44f98dc3346095441fb0091f3bc",
+      "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+      "8659d666d6b56d820f674c6025eb1a96aca82258cc7f20600a1a983e6a8f7e55",
+      "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd",
+      "5e2840279e8eaff845b9d9ee23d6659dcd0f0ba837abdf6ec41e804e6503a70a",
+      "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "7dbb95ed47fc0d56407762045160faa59c6edcfb06c6893279f08c76d9b95a35",
+      "35e20c65e31d2f402a45fd6587f48b05ab006a4be5f1f09a6887c744a20758c5",
+      "0b4bbde2341ff0a31568beda67b6af1fc4a2786e0e5d129d89e03330e8b4e6ba",
+      "35e20c65e31d2f402a45fd6587f48b05ab006a4be5f1f09a6887c744a20758c5",
+      "a5662b663c689844a794691775ab766cbee7f15ade77b0664500cea1ee74e8e1",
+      "40fda5b057db3f8a9fb651431edf4480eb0d72e683d6bedec0501d73f5b6acb3",
+      "d116227e94a5b41744ed5446a19729d014a0cca8793ff592f6136f7d2980942d",
+      "40fda5b057db3f8a9fb651431edf4480eb0d72e683d6bedec0501d73f5b6acb3"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-00.png",
+        "frozen_sha256": "7dbb95ed47fc0d56407762045160faa59c6edcfb06c6893279f08c76d9b95a35",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7af93f57c6307e985c4d58f51445a5218aced2b0f6c8397c73851011d903fd75",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-01.png",
+        "frozen_sha256": "35e20c65e31d2f402a45fd6587f48b05ab006a4be5f1f09a6887c744a20758c5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-02.png",
+        "frozen_sha256": "0b4bbde2341ff0a31568beda67b6af1fc4a2786e0e5d129d89e03330e8b4e6ba",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "fdee88e06f5a3124a673379731e45d314e50c44f98dc3346095441fb0091f3bc",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-03.png",
+        "frozen_sha256": "35e20c65e31d2f402a45fd6587f48b05ab006a4be5f1f09a6887c744a20758c5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "b92402526906e96143a995ae35b71b54b9718c86e35a8bf4699349a32d984409",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-04.png",
+        "frozen_sha256": "a5662b663c689844a794691775ab766cbee7f15ade77b0664500cea1ee74e8e1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8659d666d6b56d820f674c6025eb1a96aca82258cc7f20600a1a983e6a8f7e55",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-05.png",
+        "frozen_sha256": "40fda5b057db3f8a9fb651431edf4480eb0d72e683d6bedec0501d73f5b6acb3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-06.png",
+        "frozen_sha256": "d116227e94a5b41744ed5446a19729d014a0cca8793ff592f6136f7d2980942d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "5e2840279e8eaff845b9d9ee23d6659dcd0f0ba837abdf6ec41e804e6503a70a",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Crosshair-07.png",
+        "frozen_sha256": "40fda5b057db3f8a9fb651431edf4480eb0d72e683d6bedec0501d73f5b6acb3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "121f55fa2dacca29487b1a57e9fb54b757b839b5b35153f6c6b9810b8975ccdd",
+        "symbol_rgba_sha256": "ad78594e318b4069898b48a2c5d2ffce33d1815636fe75958d376c6a326f5217",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      63
+    ]
+  },
+  {
+    "role": "IBeam",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      17,
+      34
+    ],
+    "symbol_hotspot": [
+      15,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/IBeam",
+    "body_hashes": [
+      "6963ee48e52c26871df66fa5ee347feb494bfec021628c279236a8427defe56e",
+      "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+      "4b02f688f23d69e928f0a99bed6354f1e49737ff99c9f3dda2ea80d632bb1db0",
+      "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+      "92054123eda3f0fa8c4cabee8e7b0077d751c50fed63493f76974e6863f7e76d",
+      "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+      "c4378950a1b6043f0cfa55e99151c646f06f99045cdac8b228d057c5a24dfaa7",
+      "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "1312a7b3d54147ad8090aa7eb080c5003218ac9a793bb4e1896b111831b368ea",
+      "316eeca518d4c4bd7477270c7cadb62c08ebbfbb3825d4cf2953a8ac878edf8a",
+      "c68a65974b6acb3d0b2810563a50adc1dbad81d180be053cbb1a4430405ae6b0",
+      "316eeca518d4c4bd7477270c7cadb62c08ebbfbb3825d4cf2953a8ac878edf8a",
+      "95e18db80f57dfa6d4b1b74e04bf097875b8fa6176b9fcec58d70a4ac43f6ebb",
+      "7e368ef77be27b37bf4638f0872e5765afc025dcd87c3b27e02c1da31554fc2c",
+      "5c52ba39111db1512d0da8bc82aceca279fa2160a0c5dc365fa22992c58573de",
+      "7e368ef77be27b37bf4638f0872e5765afc025dcd87c3b27e02c1da31554fc2c"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-00.png",
+        "frozen_sha256": "1312a7b3d54147ad8090aa7eb080c5003218ac9a793bb4e1896b111831b368ea",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6963ee48e52c26871df66fa5ee347feb494bfec021628c279236a8427defe56e",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-01.png",
+        "frozen_sha256": "316eeca518d4c4bd7477270c7cadb62c08ebbfbb3825d4cf2953a8ac878edf8a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-02.png",
+        "frozen_sha256": "c68a65974b6acb3d0b2810563a50adc1dbad81d180be053cbb1a4430405ae6b0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4b02f688f23d69e928f0a99bed6354f1e49737ff99c9f3dda2ea80d632bb1db0",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-03.png",
+        "frozen_sha256": "316eeca518d4c4bd7477270c7cadb62c08ebbfbb3825d4cf2953a8ac878edf8a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-04.png",
+        "frozen_sha256": "95e18db80f57dfa6d4b1b74e04bf097875b8fa6176b9fcec58d70a4ac43f6ebb",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "92054123eda3f0fa8c4cabee8e7b0077d751c50fed63493f76974e6863f7e76d",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-05.png",
+        "frozen_sha256": "7e368ef77be27b37bf4638f0872e5765afc025dcd87c3b27e02c1da31554fc2c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-06.png",
+        "frozen_sha256": "5c52ba39111db1512d0da8bc82aceca279fa2160a0c5dc365fa22992c58573de",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c4378950a1b6043f0cfa55e99151c646f06f99045cdac8b228d057c5a24dfaa7",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\IBeam-07.png",
+        "frozen_sha256": "7e368ef77be27b37bf4638f0872e5765afc025dcd87c3b27e02c1da31554fc2c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+        "symbol_rgba_sha256": "9737d513965aea89e327d36b6ac96d199a6eec48bae09a821e1cf901b812dd8d",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      29,
+      63
+    ]
+  },
+  {
+    "role": "NWPen",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      4,
+      63
+    ],
+    "symbol_hotspot": [
+      2,
+      61
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/NWPen",
+    "body_hashes": [
+      "6963ee48e52c26871df66fa5ee347feb494bfec021628c279236a8427defe56e",
+      "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+      "4b02f688f23d69e928f0a99bed6354f1e49737ff99c9f3dda2ea80d632bb1db0",
+      "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+      "92054123eda3f0fa8c4cabee8e7b0077d751c50fed63493f76974e6863f7e76d",
+      "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+      "c4378950a1b6043f0cfa55e99151c646f06f99045cdac8b228d057c5a24dfaa7",
+      "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "a6deba4e8ca528fbc46ff41d636b5e582387612d14b4a39952775e697e0425e6",
+      "908ae7df20e9456f8858fb9f7f0c093c6fab04d50ac1b2b612ef97cc716bc4d0",
+      "ddb251d8cc1a01640b696093a8b8be773f6b39b7b3d55675db91051b1182cac6",
+      "908ae7df20e9456f8858fb9f7f0c093c6fab04d50ac1b2b612ef97cc716bc4d0",
+      "df599dc4521000f74925669f1ba227bd5e053e31a6009d30093afcb07da4c2f2",
+      "7f46296e9131c8f855e45f81bbf88088f9873dacedb2a821fe2b52e060f599f3",
+      "afeb35a7a98ffb438ac01820f23b7baeffa45a5a66d1ec66f17f95b2e6d537e4",
+      "7f46296e9131c8f855e45f81bbf88088f9873dacedb2a821fe2b52e060f599f3"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-00.png",
+        "frozen_sha256": "a6deba4e8ca528fbc46ff41d636b5e582387612d14b4a39952775e697e0425e6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "6963ee48e52c26871df66fa5ee347feb494bfec021628c279236a8427defe56e",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-01.png",
+        "frozen_sha256": "908ae7df20e9456f8858fb9f7f0c093c6fab04d50ac1b2b612ef97cc716bc4d0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-02.png",
+        "frozen_sha256": "ddb251d8cc1a01640b696093a8b8be773f6b39b7b3d55675db91051b1182cac6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4b02f688f23d69e928f0a99bed6354f1e49737ff99c9f3dda2ea80d632bb1db0",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-03.png",
+        "frozen_sha256": "908ae7df20e9456f8858fb9f7f0c093c6fab04d50ac1b2b612ef97cc716bc4d0",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "55284c4130b10b2ebe838c89f292a20631ac0cfb12b0aea8993c97288e9beb1c",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-04.png",
+        "frozen_sha256": "df599dc4521000f74925669f1ba227bd5e053e31a6009d30093afcb07da4c2f2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "92054123eda3f0fa8c4cabee8e7b0077d751c50fed63493f76974e6863f7e76d",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-05.png",
+        "frozen_sha256": "7f46296e9131c8f855e45f81bbf88088f9873dacedb2a821fe2b52e060f599f3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-06.png",
+        "frozen_sha256": "afeb35a7a98ffb438ac01820f23b7baeffa45a5a66d1ec66f17f95b2e6d537e4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c4378950a1b6043f0cfa55e99151c646f06f99045cdac8b228d057c5a24dfaa7",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\NWPen-07.png",
+        "frozen_sha256": "7f46296e9131c8f855e45f81bbf88088f9873dacedb2a821fe2b52e060f599f3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "271e47dc1a167b9f2b8405976577301cca0e662093b1a6f9576b148292dae742",
+        "symbol_rgba_sha256": "7fae0cc7f36afadcb55d0f7f029b801e001f4dd3f73549f0bb409616e45fcde3",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      63
+    ]
+  },
+  {
+    "role": "No",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      34
+    ],
+    "symbol_hotspot": [
+      32,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/No",
+    "body_hashes": [
+      "934e2cca7baa6ba5081985e394ac6ea57e949a20d1740c66f8afaf219bdd0209",
+      "03bc12872491a2dadcc423418e69c2cc560ad1a1f7a5bd729bc3d6a7912c0fea",
+      "317dc18f08cccdfc4f1b6e65d32444d276e73ff7f388ea8cb75e547d7c85f99a",
+      "03bc12872491a2dadcc423418e69c2cc560ad1a1f7a5bd729bc3d6a7912c0fea",
+      "2b7369de934d6cea563042c17a4e01eebe886c2ff6ea04b2ee673e28e6fc5365",
+      "4f8f41dee285c7f7d56809b8d438ad1bc55800d1e0578437e13494777a71fd1c",
+      "1a99e15ac71fe83e59962a9a0f3bb442338c1a1e2231f0b9fa1d16a99ac23b66",
+      "4f8f41dee285c7f7d56809b8d438ad1bc55800d1e0578437e13494777a71fd1c"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "7b9eb68c2b8b104eb141f51532712524bd244ab653d6d0731ac21e9143e89ef6",
+      "865a624c53a122273f679e122676ebbe70cc2c02ebf76621c6d1b4f7c89bbc62",
+      "4043286a8ec2f0d1902c1061499dead9dc50c42c95e75d8782fec7e3323f41ab",
+      "865a624c53a122273f679e122676ebbe70cc2c02ebf76621c6d1b4f7c89bbc62",
+      "82e5b365f1ae55e2539b47a1fcc83653934c5701934d436079a73f2aa5bbf314",
+      "f8582f8de4a3b78009842f934639d17546898b93b2c415edbd05ee3f50aa0157",
+      "31ede114454a00ddc33614a927db829d75f33649b1354a91ba5bf12dbfb40b91",
+      "f8582f8de4a3b78009842f934639d17546898b93b2c415edbd05ee3f50aa0157"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-00.png",
+        "frozen_sha256": "7b9eb68c2b8b104eb141f51532712524bd244ab653d6d0731ac21e9143e89ef6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "934e2cca7baa6ba5081985e394ac6ea57e949a20d1740c66f8afaf219bdd0209",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-01.png",
+        "frozen_sha256": "865a624c53a122273f679e122676ebbe70cc2c02ebf76621c6d1b4f7c89bbc62",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "03bc12872491a2dadcc423418e69c2cc560ad1a1f7a5bd729bc3d6a7912c0fea",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-02.png",
+        "frozen_sha256": "4043286a8ec2f0d1902c1061499dead9dc50c42c95e75d8782fec7e3323f41ab",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "317dc18f08cccdfc4f1b6e65d32444d276e73ff7f388ea8cb75e547d7c85f99a",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-03.png",
+        "frozen_sha256": "865a624c53a122273f679e122676ebbe70cc2c02ebf76621c6d1b4f7c89bbc62",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "03bc12872491a2dadcc423418e69c2cc560ad1a1f7a5bd729bc3d6a7912c0fea",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-04.png",
+        "frozen_sha256": "82e5b365f1ae55e2539b47a1fcc83653934c5701934d436079a73f2aa5bbf314",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2b7369de934d6cea563042c17a4e01eebe886c2ff6ea04b2ee673e28e6fc5365",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-05.png",
+        "frozen_sha256": "f8582f8de4a3b78009842f934639d17546898b93b2c415edbd05ee3f50aa0157",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4f8f41dee285c7f7d56809b8d438ad1bc55800d1e0578437e13494777a71fd1c",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-06.png",
+        "frozen_sha256": "31ede114454a00ddc33614a927db829d75f33649b1354a91ba5bf12dbfb40b91",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "1a99e15ac71fe83e59962a9a0f3bb442338c1a1e2231f0b9fa1d16a99ac23b66",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\No-07.png",
+        "frozen_sha256": "f8582f8de4a3b78009842f934639d17546898b93b2c415edbd05ee3f50aa0157",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4f8f41dee285c7f7d56809b8d438ad1bc55800d1e0578437e13494777a71fd1c",
+        "symbol_rgba_sha256": "bce2c70ff0ff0f6b5a8d8ff661abde52b6316e821198db879fa941701cdf1a6c",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      63
+    ]
+  },
+  {
+    "role": "SizeNS",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      13,
+      34
+    ],
+    "symbol_hotspot": [
+      11,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/SizeNS",
+    "body_hashes": [
+      "a8d7a7404429396f09576283425f938d997e6f2188a1e432d0c3de74804515a3",
+      "a79a70fcd5030343a5d74e9440b2bb40626e70e2e7cc44d0f58d778b47bcc89d",
+      "2288772b0c43feca91132bfad52f39d96d801f8408a90e0799ffa7724034820c",
+      "4a68e5bfc68fbeaa681ffd079d818e9f43f007689a01610503d2bb1c74fbeda1",
+      "02c7b1b42faac669988233cee3198ed276ade62a2e77b8957230d69282afc020",
+      "4037717e9b73fceb68376f78ca9103e756db78c2559743ed09e2f9a62d2b3b62",
+      "851f778656ce7fba5e88d121f1c8d4b0e1e1b537e0cf26bc3f6501acaa2d19ee",
+      "cc3428f17e6e365e6e7f87138b33f434f3afe9b88092ae06eff9e55d8b01040c"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "12f88fc72d9891f206dcf9fc89da916fa3dbcdacb1af6764561a83c64ff45cd9",
+      "f38f6b5b41fe88bd7bac6bb212c59434980d3f4b29eda46dda6dabb4cd331e83",
+      "fe6af5e1495c67dbaad2add5afd494cf0dfaae9e34673ea58eea95e7522d9fb9",
+      "66c1965043cc354f50594a9d2a61fecb9daf22f721104b0adbb51f7ebb580991",
+      "1ae993d12ea7027c452c57b168f9b4a058a57115fc6d4bd17b0a7e5bcbfca0c5",
+      "e785b404798fdcdea6cf38df5d9e39053f277ac9d11a7f6ce2b204fbf6480197",
+      "7b727d77c96be5f46efe361d9e6f94b437fd3b589bc8a06ec43c554383fc020b",
+      "e04d8c31005980467cc94bec154de2c0797d3c92316a2c74687d66b15b26e08d"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-00.png",
+        "frozen_sha256": "12f88fc72d9891f206dcf9fc89da916fa3dbcdacb1af6764561a83c64ff45cd9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a8d7a7404429396f09576283425f938d997e6f2188a1e432d0c3de74804515a3",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-01.png",
+        "frozen_sha256": "f38f6b5b41fe88bd7bac6bb212c59434980d3f4b29eda46dda6dabb4cd331e83",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a79a70fcd5030343a5d74e9440b2bb40626e70e2e7cc44d0f58d778b47bcc89d",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-02.png",
+        "frozen_sha256": "fe6af5e1495c67dbaad2add5afd494cf0dfaae9e34673ea58eea95e7522d9fb9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2288772b0c43feca91132bfad52f39d96d801f8408a90e0799ffa7724034820c",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-03.png",
+        "frozen_sha256": "66c1965043cc354f50594a9d2a61fecb9daf22f721104b0adbb51f7ebb580991",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4a68e5bfc68fbeaa681ffd079d818e9f43f007689a01610503d2bb1c74fbeda1",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-04.png",
+        "frozen_sha256": "1ae993d12ea7027c452c57b168f9b4a058a57115fc6d4bd17b0a7e5bcbfca0c5",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "02c7b1b42faac669988233cee3198ed276ade62a2e77b8957230d69282afc020",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-05.png",
+        "frozen_sha256": "e785b404798fdcdea6cf38df5d9e39053f277ac9d11a7f6ce2b204fbf6480197",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4037717e9b73fceb68376f78ca9103e756db78c2559743ed09e2f9a62d2b3b62",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-06.png",
+        "frozen_sha256": "7b727d77c96be5f46efe361d9e6f94b437fd3b589bc8a06ec43c554383fc020b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "851f778656ce7fba5e88d121f1c8d4b0e1e1b537e0cf26bc3f6501acaa2d19ee",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNS-07.png",
+        "frozen_sha256": "e04d8c31005980467cc94bec154de2c0797d3c92316a2c74687d66b15b26e08d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "cc3428f17e6e365e6e7f87138b33f434f3afe9b88092ae06eff9e55d8b01040c",
+        "symbol_rgba_sha256": "278d24883184022100a3ffb573348a26515eb05abba0b2c57f3c68a4c3eb78f2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      22,
+      63
+    ]
+  },
+  {
+    "role": "SizeWE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      13
+    ],
+    "symbol_hotspot": [
+      32,
+      11
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/SizeWE",
+    "body_hashes": [
+      "44b2509be5db11cc45fc61f839521a1b762f06b7a523c02afc9c803090e9f668",
+      "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+      "d03729127c2100e19355e243b139e2666881885bbc6c539f618d1c4633c999a1",
+      "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+      "3de8d5b378c6203be63433c2161ce3b6dae2fad6391a6cee661c6e0a40b2c35b",
+      "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+      "7c9c4984a19593fc72ea00753d8f366aabc232008708b89e20955da6445656d8",
+      "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "9d0b98d5c3233496717a3f0c31b818a9d8533d5754a2d516ee12649b99cef507",
+      "e5fbef6cf682c53bf4339aca7058a3590c987d275c66479aac14b336162e5473",
+      "abc344618808504715a5c74f9c930a5025d5d30eaf03e06b1a38ce28d82de515",
+      "e5fbef6cf682c53bf4339aca7058a3590c987d275c66479aac14b336162e5473",
+      "9eb153690f21464ab8d51c730ca1235b613bf35dd87dc49cfbf37b20b864c5fb",
+      "7f63e5d75b2e5c9b866b8903e64c649da826a8153bb7f0477fe07f7491c3532a",
+      "6d902500b4b5eb9942849d07313c49c96eda28ec8a64419fbc977a0cc99cb4d9",
+      "7f63e5d75b2e5c9b866b8903e64c649da826a8153bb7f0477fe07f7491c3532a"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-00.png",
+        "frozen_sha256": "9d0b98d5c3233496717a3f0c31b818a9d8533d5754a2d516ee12649b99cef507",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "44b2509be5db11cc45fc61f839521a1b762f06b7a523c02afc9c803090e9f668",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-01.png",
+        "frozen_sha256": "e5fbef6cf682c53bf4339aca7058a3590c987d275c66479aac14b336162e5473",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-02.png",
+        "frozen_sha256": "abc344618808504715a5c74f9c930a5025d5d30eaf03e06b1a38ce28d82de515",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d03729127c2100e19355e243b139e2666881885bbc6c539f618d1c4633c999a1",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-03.png",
+        "frozen_sha256": "e5fbef6cf682c53bf4339aca7058a3590c987d275c66479aac14b336162e5473",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-04.png",
+        "frozen_sha256": "9eb153690f21464ab8d51c730ca1235b613bf35dd87dc49cfbf37b20b864c5fb",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3de8d5b378c6203be63433c2161ce3b6dae2fad6391a6cee661c6e0a40b2c35b",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-05.png",
+        "frozen_sha256": "7f63e5d75b2e5c9b866b8903e64c649da826a8153bb7f0477fe07f7491c3532a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-06.png",
+        "frozen_sha256": "6d902500b4b5eb9942849d07313c49c96eda28ec8a64419fbc977a0cc99cb4d9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7c9c4984a19593fc72ea00753d8f366aabc232008708b89e20955da6445656d8",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeWE-07.png",
+        "frozen_sha256": "7f63e5d75b2e5c9b866b8903e64c649da826a8153bb7f0477fe07f7491c3532a",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+        "symbol_rgba_sha256": "d3fe47b7031cb806bef612cadb50cae012e691a339a16aab24cee830f30cee5e",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      22
+    ]
+  },
+  {
+    "role": "SizeNWSE",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      34
+    ],
+    "symbol_hotspot": [
+      32,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/SizeNWSE",
+    "body_hashes": [
+      "44b2509be5db11cc45fc61f839521a1b762f06b7a523c02afc9c803090e9f668",
+      "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+      "d03729127c2100e19355e243b139e2666881885bbc6c539f618d1c4633c999a1",
+      "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+      "3de8d5b378c6203be63433c2161ce3b6dae2fad6391a6cee661c6e0a40b2c35b",
+      "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+      "7c9c4984a19593fc72ea00753d8f366aabc232008708b89e20955da6445656d8",
+      "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "b24616e20970b4b9ad2e8bd3a6a6fb873733c8649343207ec954cd6ef16aa4da",
+      "e7f42fa1902af3caa9a9f03ade84430577e99a6d63e24c9e5fc3e3f78b06326f",
+      "a0192ed686f314ee888adff42cc418b3b1934a4aadb39f7b6ed7fd693b49e042",
+      "e7f42fa1902af3caa9a9f03ade84430577e99a6d63e24c9e5fc3e3f78b06326f",
+      "d73958e2ec1e90714a955da7c3a6531e25eeac5cc17e8deeb0ec38c07e8b563e",
+      "7fd6adba753105ba66eaea6df0abe9e187fbdac6132db775ab6efef75d7e06de",
+      "40acbeea77a53d8ad733a42e5c14b64274c93ddf4c95b91899f6a80699c9e75d",
+      "7fd6adba753105ba66eaea6df0abe9e187fbdac6132db775ab6efef75d7e06de"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-00.png",
+        "frozen_sha256": "b24616e20970b4b9ad2e8bd3a6a6fb873733c8649343207ec954cd6ef16aa4da",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "44b2509be5db11cc45fc61f839521a1b762f06b7a523c02afc9c803090e9f668",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-01.png",
+        "frozen_sha256": "e7f42fa1902af3caa9a9f03ade84430577e99a6d63e24c9e5fc3e3f78b06326f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-02.png",
+        "frozen_sha256": "a0192ed686f314ee888adff42cc418b3b1934a4aadb39f7b6ed7fd693b49e042",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d03729127c2100e19355e243b139e2666881885bbc6c539f618d1c4633c999a1",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-03.png",
+        "frozen_sha256": "e7f42fa1902af3caa9a9f03ade84430577e99a6d63e24c9e5fc3e3f78b06326f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-04.png",
+        "frozen_sha256": "d73958e2ec1e90714a955da7c3a6531e25eeac5cc17e8deeb0ec38c07e8b563e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3de8d5b378c6203be63433c2161ce3b6dae2fad6391a6cee661c6e0a40b2c35b",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-05.png",
+        "frozen_sha256": "7fd6adba753105ba66eaea6df0abe9e187fbdac6132db775ab6efef75d7e06de",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-06.png",
+        "frozen_sha256": "40acbeea77a53d8ad733a42e5c14b64274c93ddf4c95b91899f6a80699c9e75d",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7c9c4984a19593fc72ea00753d8f366aabc232008708b89e20955da6445656d8",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNWSE-07.png",
+        "frozen_sha256": "7fd6adba753105ba66eaea6df0abe9e187fbdac6132db775ab6efef75d7e06de",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+        "symbol_rgba_sha256": "6b5727870cbc13f9a47f184b897d82a3228017cecdb1d02f17b37a18ccd4a11b",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      63
+    ]
+  },
+  {
+    "role": "SizeNESW",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      34
+    ],
+    "symbol_hotspot": [
+      32,
+      32
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/SizeNESW",
+    "body_hashes": [
+      "636cb680648d02674aee2079b9fd96c7aa73fc718ec6591c5e40ea6e2bb3dcfa",
+      "4dcbfdd5e358562d4d861c4b33484b19ee7cbeb3e22a69124ac08e8f06df9906",
+      "8167bc5339bdbce3d43a35e4accf5f43a858eb35c587b1cb33695c4e81387ca8",
+      "4dcbfdd5e358562d4d861c4b33484b19ee7cbeb3e22a69124ac08e8f06df9906",
+      "64e39ed9f04bff987ff750be8ffd32cac62e46072970e62285a433f42ecb836d",
+      "c950ae7ac26ce7d2e591ed187ffb26c2c72a8c917d8e3c3030e7704334dd609c",
+      "8e20fafc60181d8dd0a581924d04090e08cfe4d8a8ae04b31ea29657e61637e1",
+      "c950ae7ac26ce7d2e591ed187ffb26c2c72a8c917d8e3c3030e7704334dd609c"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "4537fa220aa685d89820e69249dd25d0a95216d8594cb0a3bd1fd60825a9a8d3",
+      "d8bc1105de180dd917a7d758ad013282ed81f63bc96e0707294bee87b5ce4ae3",
+      "40a95759278174916710bf4837bfeecd8a7534f5af4bc85389e7e5371eac4387",
+      "d8bc1105de180dd917a7d758ad013282ed81f63bc96e0707294bee87b5ce4ae3",
+      "c5e5f838ff70f8e548197508f01970f3bed0e4a3eb9b5574ba22c339ca5cad12",
+      "c3c03944331bdedfb8da6759a182cf4cdbd0d47467ff05fcb0bae2b5bf77eb15",
+      "c092702f63ca54dd376c7a667f3033f29e815754e2528c1675b39ff7df5afa42",
+      "c3c03944331bdedfb8da6759a182cf4cdbd0d47467ff05fcb0bae2b5bf77eb15"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-00.png",
+        "frozen_sha256": "4537fa220aa685d89820e69249dd25d0a95216d8594cb0a3bd1fd60825a9a8d3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "636cb680648d02674aee2079b9fd96c7aa73fc718ec6591c5e40ea6e2bb3dcfa",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-01.png",
+        "frozen_sha256": "d8bc1105de180dd917a7d758ad013282ed81f63bc96e0707294bee87b5ce4ae3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4dcbfdd5e358562d4d861c4b33484b19ee7cbeb3e22a69124ac08e8f06df9906",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-02.png",
+        "frozen_sha256": "40a95759278174916710bf4837bfeecd8a7534f5af4bc85389e7e5371eac4387",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8167bc5339bdbce3d43a35e4accf5f43a858eb35c587b1cb33695c4e81387ca8",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-03.png",
+        "frozen_sha256": "d8bc1105de180dd917a7d758ad013282ed81f63bc96e0707294bee87b5ce4ae3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4dcbfdd5e358562d4d861c4b33484b19ee7cbeb3e22a69124ac08e8f06df9906",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-04.png",
+        "frozen_sha256": "c5e5f838ff70f8e548197508f01970f3bed0e4a3eb9b5574ba22c339ca5cad12",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "64e39ed9f04bff987ff750be8ffd32cac62e46072970e62285a433f42ecb836d",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-05.png",
+        "frozen_sha256": "c3c03944331bdedfb8da6759a182cf4cdbd0d47467ff05fcb0bae2b5bf77eb15",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c950ae7ac26ce7d2e591ed187ffb26c2c72a8c917d8e3c3030e7704334dd609c",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-06.png",
+        "frozen_sha256": "c092702f63ca54dd376c7a667f3033f29e815754e2528c1675b39ff7df5afa42",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8e20fafc60181d8dd0a581924d04090e08cfe4d8a8ae04b31ea29657e61637e1",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeNESW-07.png",
+        "frozen_sha256": "c3c03944331bdedfb8da6759a182cf4cdbd0d47467ff05fcb0bae2b5bf77eb15",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c950ae7ac26ce7d2e591ed187ffb26c2c72a8c917d8e3c3030e7704334dd609c",
+        "symbol_rgba_sha256": "00f5c23e469fcb425236e6124d771f25bf31808c2038eff026d256ed879c2ac0",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      63
+    ]
+  },
+  {
+    "role": "SizeAll",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      34,
+      33
+    ],
+    "symbol_hotspot": [
+      32,
+      31
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/SizeAll",
+    "body_hashes": [
+      "44b2509be5db11cc45fc61f839521a1b762f06b7a523c02afc9c803090e9f668",
+      "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+      "d03729127c2100e19355e243b139e2666881885bbc6c539f618d1c4633c999a1",
+      "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+      "3de8d5b378c6203be63433c2161ce3b6dae2fad6391a6cee661c6e0a40b2c35b",
+      "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+      "7c9c4984a19593fc72ea00753d8f366aabc232008708b89e20955da6445656d8",
+      "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "7a0b5aa75560f396c168afcb576e9ec8e20cf8c9fee549568b7e7f55f2f4cb58",
+      "d019c7f42b015731468306d84f5bd55dc2ce635ae9f84c01dbff8b24f00d376c",
+      "899d5cbfab9a354d37c807f734ab56071c9f6731898792b5cd02478c5d845a15",
+      "d019c7f42b015731468306d84f5bd55dc2ce635ae9f84c01dbff8b24f00d376c",
+      "2513625cc0f6a7ae3dcfab5655ddebed78027b548f8b6010f70c557b81114ead",
+      "cb3b66b194161089e581c1ecb2f854c21853a383a2729e00ac48c21685f63b7f",
+      "37b824bd8c5f05546afcd559ec7d27c545011885ce0a00fd9d40495a1196ebe3",
+      "cb3b66b194161089e581c1ecb2f854c21853a383a2729e00ac48c21685f63b7f"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-00.png",
+        "frozen_sha256": "7a0b5aa75560f396c168afcb576e9ec8e20cf8c9fee549568b7e7f55f2f4cb58",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "44b2509be5db11cc45fc61f839521a1b762f06b7a523c02afc9c803090e9f668",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-01.png",
+        "frozen_sha256": "d019c7f42b015731468306d84f5bd55dc2ce635ae9f84c01dbff8b24f00d376c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-02.png",
+        "frozen_sha256": "899d5cbfab9a354d37c807f734ab56071c9f6731898792b5cd02478c5d845a15",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "d03729127c2100e19355e243b139e2666881885bbc6c539f618d1c4633c999a1",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-03.png",
+        "frozen_sha256": "d019c7f42b015731468306d84f5bd55dc2ce635ae9f84c01dbff8b24f00d376c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "76aa4880092127690ee5a4c18ae43fa4e5c6514ac14660c62d14872307b8ee49",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-04.png",
+        "frozen_sha256": "2513625cc0f6a7ae3dcfab5655ddebed78027b548f8b6010f70c557b81114ead",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "3de8d5b378c6203be63433c2161ce3b6dae2fad6391a6cee661c6e0a40b2c35b",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-05.png",
+        "frozen_sha256": "cb3b66b194161089e581c1ecb2f854c21853a383a2729e00ac48c21685f63b7f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-06.png",
+        "frozen_sha256": "37b824bd8c5f05546afcd559ec7d27c545011885ce0a00fd9d40495a1196ebe3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "7c9c4984a19593fc72ea00753d8f366aabc232008708b89e20955da6445656d8",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\SizeAll-07.png",
+        "frozen_sha256": "cb3b66b194161089e581c1ecb2f854c21853a383a2729e00ac48c21685f63b7f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "8494231b12f406d42f76a5ed814b535b23fbe27a98e7efe167d4c4c4e3348201",
+        "symbol_rgba_sha256": "623068ff91d5aaa254af43133ef5d87e5ac18571b2f443f428d4a61ae0aef098",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      63,
+      62
+    ]
+  },
+  {
+    "role": "UpArrow",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      29,
+      4
+    ],
+    "symbol_hotspot": [
+      27,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/UpArrow",
+    "body_hashes": [
+      "a8d7a7404429396f09576283425f938d997e6f2188a1e432d0c3de74804515a3",
+      "a79a70fcd5030343a5d74e9440b2bb40626e70e2e7cc44d0f58d778b47bcc89d",
+      "2288772b0c43feca91132bfad52f39d96d801f8408a90e0799ffa7724034820c",
+      "4a68e5bfc68fbeaa681ffd079d818e9f43f007689a01610503d2bb1c74fbeda1",
+      "02c7b1b42faac669988233cee3198ed276ade62a2e77b8957230d69282afc020",
+      "4037717e9b73fceb68376f78ca9103e756db78c2559743ed09e2f9a62d2b3b62",
+      "851f778656ce7fba5e88d121f1c8d4b0e1e1b537e0cf26bc3f6501acaa2d19ee",
+      "cc3428f17e6e365e6e7f87138b33f434f3afe9b88092ae06eff9e55d8b01040c"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "38c7c57325bb867efc195b9102ecfb451aa9b8dd76285e2343adecda2e21ae06",
+      "2074653cfa3a92c838058d1c75346eac26a64f7ee6309c3a9831aba72aaad2b9",
+      "92504ee5b771dea0cb9c790eae9b01a084c1f63c23c1eefeeffa5f8206f31877",
+      "0fef3a0e3b9448d4f797837bee831f96e1b66af49b55247397f029c862ba2a61",
+      "b3a0b742d98d4fbfbaaac51f373254374b031a7fd40d3f5f6511c8855325d049",
+      "cf75cea8d8c5244e7cbb72449dabcf74ca7c72e41bf2bc681f070393c4f552f2",
+      "c10754ce0f35f576873c860bebfcffc212cca5317d1efd50886460b9fa90bba3",
+      "cfca49acfc1bef01b94b947c0382b3849eb4c7c136d5da45364a90024cbb7163"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-00.png",
+        "frozen_sha256": "38c7c57325bb867efc195b9102ecfb451aa9b8dd76285e2343adecda2e21ae06",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a8d7a7404429396f09576283425f938d997e6f2188a1e432d0c3de74804515a3",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-01.png",
+        "frozen_sha256": "2074653cfa3a92c838058d1c75346eac26a64f7ee6309c3a9831aba72aaad2b9",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "a79a70fcd5030343a5d74e9440b2bb40626e70e2e7cc44d0f58d778b47bcc89d",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-02.png",
+        "frozen_sha256": "92504ee5b771dea0cb9c790eae9b01a084c1f63c23c1eefeeffa5f8206f31877",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "2288772b0c43feca91132bfad52f39d96d801f8408a90e0799ffa7724034820c",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-03.png",
+        "frozen_sha256": "0fef3a0e3b9448d4f797837bee831f96e1b66af49b55247397f029c862ba2a61",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4a68e5bfc68fbeaa681ffd079d818e9f43f007689a01610503d2bb1c74fbeda1",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-04.png",
+        "frozen_sha256": "b3a0b742d98d4fbfbaaac51f373254374b031a7fd40d3f5f6511c8855325d049",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "02c7b1b42faac669988233cee3198ed276ade62a2e77b8957230d69282afc020",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-05.png",
+        "frozen_sha256": "cf75cea8d8c5244e7cbb72449dabcf74ca7c72e41bf2bc681f070393c4f552f2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "4037717e9b73fceb68376f78ca9103e756db78c2559743ed09e2f9a62d2b3b62",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-06.png",
+        "frozen_sha256": "c10754ce0f35f576873c860bebfcffc212cca5317d1efd50886460b9fa90bba3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "851f778656ce7fba5e88d121f1c8d4b0e1e1b537e0cf26bc3f6501acaa2d19ee",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\UpArrow-07.png",
+        "frozen_sha256": "cfca49acfc1bef01b94b947c0382b3849eb4c7c136d5da45364a90024cbb7163",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "cc3428f17e6e365e6e7f87138b33f434f3afe9b88092ae06eff9e55d8b01040c",
+        "symbol_rgba_sha256": "b15d555c7a6f4d7472a4924d3a09f8bf99e39eebd41a92b829d3c790f2f3e099",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      53,
+      63
+    ]
+  },
+  {
+    "role": "Hand",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      21,
+      4
+    ],
+    "symbol_hotspot": [
+      19,
+      2
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Hand",
+    "body_hashes": [
+      "216d45b06411708de2cd728d7d1f4a16941ebc19911841650ca128a8d382ea11",
+      "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+      "f3fdb85e65d2fd8a4bbd8c772f69bcc438cd93f84aeec2636d675d971ce1bf93",
+      "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+      "73621d1a20d12fdfdc8a4d72afe0159131242602c2c57fbe3bf6a115ab22521d",
+      "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e",
+      "ed5363de26e96c329fe76d8bdc502e729c43544c971909993730b3f5923f35be",
+      "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "1af5edde5eb220e33db3ec4fc0f2901c1266eef462ae1d8a49ec8524c2aedcd7",
+      "99b25f5ac7b297c13e4b93b672001856e1ce946efe6529928fd0a1a2dc88a54b",
+      "c3f70cc6c11d61f294e6731d04d52b0224db061b5ded85130964b539f5b7eff2",
+      "99b25f5ac7b297c13e4b93b672001856e1ce946efe6529928fd0a1a2dc88a54b",
+      "a05543ccabc7e960d3147b47a0e8ca9bcd239a89f89aabf65d9f34f30eb4b6e6",
+      "ed5b5630efc96205eed52253a95456bdb80154f0b43d011ca917835596379f3c",
+      "d4aa2ef4664b0c26fc47b9e0507448635a787549c8d84443bdbc1f7ade1c09a3",
+      "ed5b5630efc96205eed52253a95456bdb80154f0b43d011ca917835596379f3c"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-00.png",
+        "frozen_sha256": "1af5edde5eb220e33db3ec4fc0f2901c1266eef462ae1d8a49ec8524c2aedcd7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "216d45b06411708de2cd728d7d1f4a16941ebc19911841650ca128a8d382ea11",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-01.png",
+        "frozen_sha256": "99b25f5ac7b297c13e4b93b672001856e1ce946efe6529928fd0a1a2dc88a54b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-02.png",
+        "frozen_sha256": "c3f70cc6c11d61f294e6731d04d52b0224db061b5ded85130964b539f5b7eff2",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f3fdb85e65d2fd8a4bbd8c772f69bcc438cd93f84aeec2636d675d971ce1bf93",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-03.png",
+        "frozen_sha256": "99b25f5ac7b297c13e4b93b672001856e1ce946efe6529928fd0a1a2dc88a54b",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-04.png",
+        "frozen_sha256": "a05543ccabc7e960d3147b47a0e8ca9bcd239a89f89aabf65d9f34f30eb4b6e6",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "73621d1a20d12fdfdc8a4d72afe0159131242602c2c57fbe3bf6a115ab22521d",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-05.png",
+        "frozen_sha256": "ed5b5630efc96205eed52253a95456bdb80154f0b43d011ca917835596379f3c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-06.png",
+        "frozen_sha256": "d4aa2ef4664b0c26fc47b9e0507448635a787549c8d84443bdbc1f7ade1c09a3",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ed5363de26e96c329fe76d8bdc502e729c43544c971909993730b3f5923f35be",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Hand-07.png",
+        "frozen_sha256": "ed5b5630efc96205eed52253a95456bdb80154f0b43d011ca917835596379f3c",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e",
+        "symbol_rgba_sha256": "63c85dd4f0496516d335b1ce11c76bdb9849aa657fcbfc986adc42bd49b0c6e6",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      57,
+      63
+    ]
+  },
+  {
+    "role": "Pin",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      26,
+      64
+    ],
+    "symbol_hotspot": [
+      24,
+      62
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Pin",
+    "body_hashes": [
+      "89b6087d70fab0288239f6e4a2b06aadb02508f10438ef9b1f55b3cea44c0be1",
+      "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+      "424a4a23418e3319c80c20ba42c56936a6a740cd3eb4ff176c0f13b2d3b13ea3",
+      "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+      "f4625d54622e8b54d1ade2044a0fe4fabd2f7e6f0d2e3c5fe214ea4314eb7dae",
+      "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4",
+      "e9ea691559716ece2c6a2f28ec902124970c7f4f827bbdea18da1ff97f95a22d",
+      "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "13274f21f8854afb9fe1f2dfe0e01230c1c936674aea902d567dafc7eb95c2cf",
+      "052f56904feec2f084f4bab99819fb35b3d685f4420234c15b4fb04683fbc7f7",
+      "fc809e7b25d14dadbc9091d7fee57a39e460641b064c0e5baf9e0965dc50ed2e",
+      "052f56904feec2f084f4bab99819fb35b3d685f4420234c15b4fb04683fbc7f7",
+      "e22864408bad05826ec43cc2157ecd346f9f5912716f1002de4fab8d3333a661",
+      "bb82aebdcf46fa552f9a64f90e576b395586dd8ebbac28f236ef820cc47f68be",
+      "d622862e78d69f09b0b210cbd9eb3204c9c8d8a2453a38f9bb42b9cce6beca90",
+      "bb82aebdcf46fa552f9a64f90e576b395586dd8ebbac28f236ef820cc47f68be"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-00.png",
+        "frozen_sha256": "13274f21f8854afb9fe1f2dfe0e01230c1c936674aea902d567dafc7eb95c2cf",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "89b6087d70fab0288239f6e4a2b06aadb02508f10438ef9b1f55b3cea44c0be1",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-01.png",
+        "frozen_sha256": "052f56904feec2f084f4bab99819fb35b3d685f4420234c15b4fb04683fbc7f7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-02.png",
+        "frozen_sha256": "fc809e7b25d14dadbc9091d7fee57a39e460641b064c0e5baf9e0965dc50ed2e",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "424a4a23418e3319c80c20ba42c56936a6a740cd3eb4ff176c0f13b2d3b13ea3",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-03.png",
+        "frozen_sha256": "052f56904feec2f084f4bab99819fb35b3d685f4420234c15b4fb04683fbc7f7",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "c2d10176b927aa423278b73724b5c6d4d49fb63f2b089a4dc4e7dc1ede97e911",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-04.png",
+        "frozen_sha256": "e22864408bad05826ec43cc2157ecd346f9f5912716f1002de4fab8d3333a661",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f4625d54622e8b54d1ade2044a0fe4fabd2f7e6f0d2e3c5fe214ea4314eb7dae",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-05.png",
+        "frozen_sha256": "bb82aebdcf46fa552f9a64f90e576b395586dd8ebbac28f236ef820cc47f68be",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-06.png",
+        "frozen_sha256": "d622862e78d69f09b0b210cbd9eb3204c9c8d8a2453a38f9bb42b9cce6beca90",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "e9ea691559716ece2c6a2f28ec902124970c7f4f827bbdea18da1ff97f95a22d",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Pin-07.png",
+        "frozen_sha256": "bb82aebdcf46fa552f9a64f90e576b395586dd8ebbac28f236ef820cc47f68be",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "00b907cd8ba9bcee58942a9857778cb555c27743df77c65fe5cab30757a937b4",
+        "symbol_rgba_sha256": "edf25aed1cf20d8ce3edaba727907abaad0a32a2e8b33b980b98fc846eb51761",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      48,
+      63
+    ]
+  },
+  {
+    "role": "Person",
+    "frames": 8,
+    "frame_ms": 133.33333333333334,
+    "jiffies": 8,
+    "hotspot": [
+      31,
+      15
+    ],
+    "symbol_hotspot": [
+      29,
+      13
+    ],
+    "native_frames": 8,
+    "body_canvas": [
+      256,
+      256
+    ],
+    "body_directory": "chatgpt-dragon-original-256/Person",
+    "body_hashes": [
+      "216d45b06411708de2cd728d7d1f4a16941ebc19911841650ca128a8d382ea11",
+      "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+      "f3fdb85e65d2fd8a4bbd8c772f69bcc438cd93f84aeec2636d675d971ce1bf93",
+      "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+      "73621d1a20d12fdfdc8a4d72afe0159131242602c2c57fbe3bf6a115ab22521d",
+      "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e",
+      "ed5363de26e96c329fe76d8bdc502e729c43544c971909993730b3f5923f35be",
+      "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e"
+    ],
+    "character": "chatgpt-dragon",
+    "edition": "original",
+    "logical_size": 256,
+    "frozen_frame_sha256": [
+      "719694154f136bc71b11f2751095ce28fa1d7b75df1955727b201c1f5acbb7de",
+      "5ca782e017643c595beefb80ea98319cdde9372ff8318c0ff1466d4e75ad13b1",
+      "cfca88b2591f08531ddcf4bd091d53728bd0c790892610de81512e1e88185034",
+      "5ca782e017643c595beefb80ea98319cdde9372ff8318c0ff1466d4e75ad13b1",
+      "4989143d3ef1e2145707fc003d1ca358041cfcb448c9084e79a4b3a02c6d4a6f",
+      "92fa096cf1902517c9874f476381c8c8081a200e1a26d5707eb423e43db8ede4",
+      "ed9539f163a6e4841e7ab444c7539fd04af7bf7c5a1735add543af518be11869",
+      "92fa096cf1902517c9874f476381c8c8081a200e1a26d5707eb423e43db8ede4"
+    ],
+    "native_canvas": [
+      64,
+      64
+    ],
+    "expectedNativeSize": 64,
+    "native_symbol_offset": [
+      -2,
+      -2
+    ],
+    "split_mode": "complete-symbol-and-source-character",
+    "source_phase_checks": [
+      {
+        "phase": 0,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-00.png",
+        "frozen_sha256": "719694154f136bc71b11f2751095ce28fa1d7b75df1955727b201c1f5acbb7de",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "216d45b06411708de2cd728d7d1f4a16941ebc19911841650ca128a8d382ea11",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 1,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-01.png",
+        "frozen_sha256": "5ca782e017643c595beefb80ea98319cdde9372ff8318c0ff1466d4e75ad13b1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 2,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-02.png",
+        "frozen_sha256": "cfca88b2591f08531ddcf4bd091d53728bd0c790892610de81512e1e88185034",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "f3fdb85e65d2fd8a4bbd8c772f69bcc438cd93f84aeec2636d675d971ce1bf93",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 3,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-03.png",
+        "frozen_sha256": "5ca782e017643c595beefb80ea98319cdde9372ff8318c0ff1466d4e75ad13b1",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "acdfe15909f88551be84aea315e4072f50336b23b2314695b9efe7cee1f22d0a",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 4,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-04.png",
+        "frozen_sha256": "4989143d3ef1e2145707fc003d1ca358041cfcb448c9084e79a4b3a02c6d4a6f",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "73621d1a20d12fdfdc8a4d72afe0159131242602c2c57fbe3bf6a115ab22521d",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 5,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-05.png",
+        "frozen_sha256": "92fa096cf1902517c9874f476381c8c8081a200e1a26d5707eb423e43db8ede4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 6,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-06.png",
+        "frozen_sha256": "ed9539f163a6e4841e7ab444c7539fd04af7bf7c5a1735add543af518be11869",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "ed5363de26e96c329fe76d8bdc502e729c43544c971909993730b3f5923f35be",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      },
+      {
+        "phase": 7,
+        "frozen_path": "E:\\cladue缓存\\AI全家动态指针_20261012\\revisions\\全系列尺寸与配色修复发布_20261016\\repos\\chatgpt-dragon-cursors\\source\\frames\\chatgpt-dragon\\256\\Person-07.png",
+        "frozen_sha256": "92fa096cf1902517c9874f476381c8c8081a200e1a26d5707eb423e43db8ede4",
+        "character_offset": [
+          0,
+          0
+        ],
+        "character_rgba_sha256": "91d6fa6d627e5e5a5c257073d581cdfc2f81b01e92106fc0ebf1b3076fa0089e",
+        "symbol_rgba_sha256": "61d4bfd09542818d0cf624a26c3e5559f82542f80ff4872bcab58bd14cb23be2",
+        "source_rebuild_visible_exact": true,
+        "separate_layers_visible_diff_pixels": 0,
+        "separate_layers_max_channel_delta": 0,
+        "non_target_changed_pixels": 0
+      }
+    ],
+    "native_visible_bounds": [
+      1,
+      1,
+      57,
+      63
+    ]
+  }
+]

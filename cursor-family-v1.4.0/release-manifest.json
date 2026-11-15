@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "chatgpt-dragon-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 42530625,
+      "sha256": "216b33915d609b0b395278011b3a163c29acf4ff2f54b5cd21b504d14a7b81da"
+    },
+    {
+      "name": "chatgpt-dragon-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 282120,
+      "sha256": "60f0d00211bb5d60a1e8101ea23beb84842a593af6b5c6fc237c18a530f3ad3a"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 239,
+      "sha256": "5cd003a324d485c56643c8400c63f0dda0fe10519a555f1eaee339859e9c787a"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 13,
+  "originalMediaUnchanged": true
+}
